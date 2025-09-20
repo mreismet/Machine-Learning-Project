@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Aiden Chen",
+    "age": 35,
+    "email": "aiden.c@example.com",
+    "income": 92000,
+    "risk_of_medical_complications": "Low",
+    "jobholder": true,
+    "disposable_income": 27600
+  },
+  {
+    "name": "Brooklyn Patel",
+    "age": 26,
+    "email": "b.patel@mail.net",
+    "income": 68000,
+    "risk_of_medical_complications": "Very Low",
+    "jobholder": true,
+    "disposable_income": 20400
+  },
+  {
+    "name": "Carter Evans",
+    "age": 52,
+    "email": "carter.evans@example.org",
+    "income": 115000,
+    "risk_of_medical_complications": "Medium",
+    "jobholder": true,
+    "disposable_income": 34500
+  },
+  {
+    "name": "Riley Kim",
+    "age": 22,
+    "email": "riley.kim@example.com",
+    "income": 45000,
+    "risk_of_medical_complications": "Very Low",
+    "jobholder": true,
+    "disposable_income": 11250
+  },
+  {
+    "name": "Zoe Barnes",
+    "age": 67,
+    "email": "zoe.b@mail.net",
+    "income": 55000,
+    "risk_of_medical_complications": "High",
+    "jobholder": false,
+    "disposable_income": 13750
+  },
+  {
+    "name": "Leo Rivera",
+    "age": 41,
+    "email": "leo.rivera@example.org",
+    "income": 102000,
+    "risk_of_medical_complications": "Low",
+    "jobholder": true,
+    "disposable_income": 25500
+  },
+  {
+    "name": "Hannah Gomez",
+    "age": 31,
+    "email": "hannah.g@example.com",
+    "income": 81000,
+    "risk_of_medical_complications": "Low",
+    "jobholder": true,
+    "disposable_income": 28350
+  },
+  {
+    "name": "Jack Morris",
+    "age": 74,
+    "email": "j.morris@mail.net",
+    "income": 62000,
+    "risk_of_medical_complications": "High",
+    "jobholder": false,
+    "disposable_income": 18600
+  },
+  {
+    "name": "Layla Washington",
+    "age": 19,
+    "email": "layla.w@example.org",
+    "income": 21000,
+    "risk_of_medical_complications": "Very Low",
+    "jobholder": false,
+    "disposable_income": 5250
+  },
+  {
+    "name": "Owen Henderson",
+    "age": 49,
+    "email": "owen.h@example.com",
+    "income": 130000,
+    "risk_of_medical_complications": "Medium",
+    "jobholder": true,
+    "disposable_income": 45500
+  },
+  {
+    "name": "Nora Coleman",
+    "age": 28,
+    "email": "n.coleman@mail.net",
+    "income": 75000,
+    "risk_of_medical_complications": "Low",
+    "jobholder": true,
+    "disposable_income": 22500
+  },
+  {
+    "name": "Caleb Jenkins",
+    "age": 58,
+    "email": "caleb.j@example.org",
+    "income": 95000,
+    "risk_of_medical_complications": "Medium",
+    "jobholder": true,
+    "disposable_income": 23750
+  },
+  {
+    "name": "Scarlett Perry",
+    "age": 33,
+    "email": "scarlett.p@example.com",
+    "income": 88000,
+    "risk_of_medical_complications": "Low",
+    "jobholder": true,
+    "disposable_income": 30800
+  },
+  {
+    "name": "Grayson Long",
+    "age": 24,
+    "email": "grayson.l@mail.net",
+    "income": 58000,
+    "risk_of_medical_complications": "Very Low",
+    "jobholder": true,
+    "disposable_income": 14500
+  },
+  {
+    "name": "Stella Hughes",
+    "age": 63,
+    "email": "stella.h@example.org",
+    "income": 70000,
+    "risk_of_medical_complications": "High",
+    "jobholder": false,
+    "disposable_income": 21000
+  },
+  {
+    "name": "Julian Foster",
+    "age": 45,
+    "email": "julian.f@example.com",
+    "income": 145000,
+    "risk_of_medical_complications": "Medium",
+    "jobholder": true,
+    "disposable_income": 50750
+  },
+  {
+    "name": "Maya Simmons",
+    "age": 29,
+    "email": "maya.s@mail.net",
+    "income": 72000,
+    "risk_of_medical_complications": "Low",
+    "jobholder": true,
+    "disposable_income": 25200
+  },
+  {
+    "name": "Levi Powell",
+    "age": 55,
+    "email": "levi.p@example.org",
+    "income": 110000,
+    "risk_of_medical_complications": "Medium",
+    "jobholder": true,
+    "disposable_income": 33000
+  },
+  {
+    "name": "Paisley Butler",
+    "age": 20,
+    "email": "paisley.b@example.com",
+    "income": 32000,
+    "risk_of_medical_complications": "Very Low",
+    "jobholder": true,
+    "disposable_income": 8000
+  },
+  {
+    "name": "Ezra Russell",
+    "age": 38,
+    "email": "ezra.r@mail.net",
+    "income": 98000,
+    "risk_of_medical_complications": "Low",
+    "jobholder": true,
+    "disposable_income": 34300
+  },
+  {
+    "name": "Aurora Griffin",
+    "age": 61,
+    "email": "aurora.g@example.org",
+    "income": 80000,
+    "risk_of_medical_complications": "Medium",
+    "jobholder": false,
+    "disposable_income": 20000
+  },
+  {
+    "name": "Miles Diaz",
+    "age": 43,
+    "email": "miles.d@example.com",
+    "income": 125000,
+    "risk_of_medical_complications": "Low",
+    "jobholder": true,
+    "disposable_income": 43750
+  },
+  {
+    "name": "Willow West",
+    "age": 27,
+    "email": "willow.w@mail.net",
+    "income": 65000,
+    "risk_of_medical_complications": "Very Low",
+    "jobholder": true,
+    "disposable_income": 19500
+  },
+  {
+    "name": "Lincoln Fisher",
+    "age": 70,
+    "email": "lincoln.f@example.org",
+    "income": 58000,
+    "risk_of_medical_complications": "High",
+    "jobholder": false,
+    "disposable_income": 14500
+  },
+  {
+    "name": "Penelope Hayes",
+    "age": 36,
+    "email": "penelope.h@example.com",
+    "income": 90000,
+    "risk_of_medical_complications": "Low",
+    "jobholder": true,
+    "disposable_income": 31500
+  },
+  {
+    "name": "Wyatt Cruz",
+    "age": 51,
+    "email": "wyatt.c@mail.net",
+    "income": 118000,
+    "risk_of_medical_complications": "Medium",
+    "jobholder": true,
+    "disposable_income": 35400
+  },
+  {
+    "name": "Genesis Gibson",
+    "age": 23,
+    "email": "genesis.g@example.org",
+    "income": 53000,
+    "risk_of_medical_complications": "Very Low",
+    "jobholder": true,
+    "disposable_income": 13250
+  },
+  {
+    "name": "Josiah Ray",
+    "age": 65,
+    "email": "josiah.ray@example.com",
+    "income": 75000,
+    "risk_of_medical_complications": "High",
+    "jobholder": false,
+    "disposable_income": 22500
+  },
+  {
+    "name": "Clara Boyd",
+    "age": 30,
+    "email": "clara.b@mail.net",
+    "income": 82000,
+    "risk_of_medical_complications": "Low",
+    "jobholder": true,
+    "disposable_income": 24600
+  },
+  {
+    "name": "Mateo Jordan",
+    "age": 47,
+    "email": "mateo.j@example.org",
+    "income": 135000,
+    "risk_of_medical_complications": "Medium",
+    "jobholder": true,
+    "disposable_income": 47250
+  }
+]

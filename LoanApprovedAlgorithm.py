@@ -1,8 +1,6 @@
 import pandas as pd
 import json
 
-from matplotlib import pyplot as plt
-from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 from sqlalchemy import create_engine
 

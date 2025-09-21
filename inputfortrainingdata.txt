@@ -1,0 +1,48 @@
+if(loanamount >= 45000)
+        if(profittoloanratio >= 45)
+            if(creditscore >= 550)
+                loanapproved  = true
+            else
+                if(riskofdebt = 2)
+                {
+                    loanapproved = false
+                }
+                else
+                    loanapproved = true
+
+        else
+            if(creditscore >= 750)
+                loanapproved = true
+            else
+                if(riskofdebt = 0)
+                {
+                    loanapproved = true
+                }
+                else
+                    loanapproved = false
+    else
+        if(profittoloanratio >= 30)
+            if(creditscore >= 700)
+                loanapproved  = true
+            else
+                if(riskofdebt = 2)
+                {
+                    loanapproved = false
+                }
+                else
+                    loanapproved = true
+                    
+        else
+            if(creditscore >= 550)
+                loanapproved = true
+            else
+                if(riskofdebt = 0)
+                {
+                    loanapproved = true
+                }
+                else
+                    loanapproved = false
+
+
+
+400 record diverse json files where in all 400 of them the nodes have been visited at least once and the 200 of the records have data extremely close to the if and else statements and the other 200 although still following the rules do not have the restriction of being close to the if and else statements files name:( any name) loan amount:(between 10k and 100k) profit to loan ratio: (20-75) credit score 400-850 riskofdebt(low,medium,high) low medium high will be transformed in code but given as words and a loan approved: true or false

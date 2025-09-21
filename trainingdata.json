@@ -4,6 +4,7 @@
     "loanAmount": 45100,
     "profitToLoanRatio": 46,
     "creditScore": 551,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
@@ -11,6 +12,7 @@
     "loanAmount": 75000,
     "profitToLoanRatio": 65,
     "creditScore": 800,
+    "riskofdebt": "medium",
     "loanApproved": true
   },
   {
@@ -18,6 +20,7 @@
     "loanAmount": 45200,
     "profitToLoanRatio": 47,
     "creditScore": 548,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
@@ -25,2778 +28,3175 @@
     "loanAmount": 80000,
     "profitToLoanRatio": 70,
     "creditScore": 450,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_5",
     "loanAmount": 45300,
-    "profitToLoanRatio": 44,
-    "creditScore": 751,
+    "profitToLoanRatio": 48,
+    "creditScore": 545,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_6",
     "loanAmount": 85000,
-    "profitToLoanRatio": 25,
-    "creditScore": 820,
+    "profitToLoanRatio": 68,
+    "creditScore": 420,
+    "riskofdebt": "medium",
     "loanApproved": true
   },
   {
     "fileName": "record_7",
     "loanAmount": 45400,
-    "profitToLoanRatio": 43,
-    "creditScore": 748,
-    "loanApproved": false
+    "profitToLoanRatio": 44,
+    "creditScore": 751,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_8",
     "loanAmount": 90000,
-    "profitToLoanRatio": 35,
-    "creditScore": 600,
-    "loanApproved": false
+    "profitToLoanRatio": 25,
+    "creditScore": 820,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_9",
-    "loanAmount": 44900,
-    "profitToLoanRatio": 31,
-    "creditScore": 701,
+    "loanAmount": 45500,
+    "profitToLoanRatio": 43,
+    "creditScore": 748,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_10",
-    "loanAmount": 25000,
-    "profitToLoanRatio": 50,
+    "loanAmount": 95000,
+    "profitToLoanRatio": 35,
     "creditScore": 800,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_11",
-    "loanAmount": 44800,
-    "profitToLoanRatio": 32,
-    "creditScore": 698,
+    "loanAmount": 45600,
+    "profitToLoanRatio": 42,
+    "creditScore": 745,
+    "riskofdebt": "medium",
     "loanApproved": false
   },
   {
     "fileName": "record_12",
-    "loanAmount": 30000,
-    "profitToLoanRatio": 60,
-    "creditScore": 500,
+    "loanAmount": 65000,
+    "profitToLoanRatio": 30,
+    "creditScore": 600,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_13",
-    "loanAmount": 44700,
-    "profitToLoanRatio": 29,
-    "creditScore": 551,
+    "loanAmount": 44900,
+    "profitToLoanRatio": 31,
+    "creditScore": 701,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_14",
-    "loanAmount": 20000,
-    "profitToLoanRatio": 22,
+    "loanAmount": 25000,
+    "profitToLoanRatio": 50,
     "creditScore": 800,
+    "riskofdebt": "medium",
     "loanApproved": true
   },
   {
     "fileName": "record_15",
-    "loanAmount": 44600,
-    "profitToLoanRatio": 28,
-    "creditScore": 548,
+    "loanAmount": 44800,
+    "profitToLoanRatio": 32,
+    "creditScore": 698,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_16",
-    "loanAmount": 15000,
-    "profitToLoanRatio": 24,
-    "creditScore": 450,
+    "loanAmount": 30000,
+    "profitToLoanRatio": 60,
+    "creditScore": 500,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_17",
-    "loanAmount": 45000,
-    "profitToLoanRatio": 45,
-    "creditScore": 550,
+    "loanAmount": 44700,
+    "profitToLoanRatio": 33,
+    "creditScore": 695,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_18",
-    "loanAmount": 95000,
-    "profitToLoanRatio": 72,
-    "creditScore": 810,
+    "loanAmount": 20000,
+    "profitToLoanRatio": 55,
+    "creditScore": 650,
+    "riskofdebt": "medium",
     "loanApproved": true
   },
   {
     "fileName": "record_19",
-    "loanAmount": 45001,
-    "profitToLoanRatio": 45,
-    "creditScore": 549,
-    "loanApproved": false
+    "loanAmount": 44600,
+    "profitToLoanRatio": 29,
+    "creditScore": 551,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_20",
-    "loanAmount": 98000,
-    "profitToLoanRatio": 68,
-    "creditScore": 420,
-    "loanApproved": false
+    "loanAmount": 15000,
+    "profitToLoanRatio": 22,
+    "creditScore": 800,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_21",
-    "loanAmount": 45002,
-    "profitToLoanRatio": 44,
-    "creditScore": 750,
+    "loanAmount": 44500,
+    "profitToLoanRatio": 28,
+    "creditScore": 548,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_22",
-    "loanAmount": 65000,
-    "profitToLoanRatio": 22,
-    "creditScore": 830,
+    "loanAmount": 18000,
+    "profitToLoanRatio": 24,
+    "creditScore": 450,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_23",
-    "loanAmount": 45003,
-    "profitToLoanRatio": 44,
-    "creditScore": 749,
+    "loanAmount": 44400,
+    "profitToLoanRatio": 27,
+    "creditScore": 545,
+    "riskofdebt": "medium",
     "loanApproved": false
   },
   {
     "fileName": "record_24",
-    "loanAmount": 72000,
-    "profitToLoanRatio": 33,
-    "creditScore": 650,
+    "loanAmount": 12000,
+    "profitToLoanRatio": 25,
+    "creditScore": 500,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_25",
-    "loanAmount": 44999,
-    "profitToLoanRatio": 30,
-    "creditScore": 700,
+    "loanAmount": 45000,
+    "profitToLoanRatio": 45,
+    "creditScore": 550,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_26",
-    "loanAmount": 18000,
-    "profitToLoanRatio": 55,
-    "creditScore": 780,
-    "loanApproved": true
+    "loanAmount": 45001,
+    "profitToLoanRatio": 45,
+    "creditScore": 549,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_27",
-    "loanAmount": 44998,
-    "profitToLoanRatio": 30,
-    "creditScore": 699,
-    "loanApproved": false
+    "loanAmount": 45002,
+    "profitToLoanRatio": 45,
+    "creditScore": 549,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_28",
-    "loanAmount": 22000,
-    "profitToLoanRatio": 65,
-    "creditScore": 550,
-    "loanApproved": false
+    "loanAmount": 45003,
+    "profitToLoanRatio": 44,
+    "creditScore": 750,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_29",
-    "loanAmount": 44997,
-    "profitToLoanRatio": 29,
-    "creditScore": 550,
+    "loanAmount": 45004,
+    "profitToLoanRatio": 44,
+    "creditScore": 749,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_30",
-    "loanAmount": 12000,
-    "profitToLoanRatio": 21,
-    "creditScore": 750,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_31",
-    "loanAmount": 44996,
-    "profitToLoanRatio": 29,
-    "creditScore": 549,
+    "loanAmount": 45005,
+    "profitToLoanRatio": 44,
+    "creditScore": 749,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_31",
+    "loanAmount": 44999,
+    "profitToLoanRatio": 30,
+    "creditScore": 700,
+    "riskofdebt": "medium",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_32",
-    "loanAmount": 11000,
-    "profitToLoanRatio": 23,
-    "creditScore": 480,
+    "loanAmount": 44998,
+    "profitToLoanRatio": 30,
+    "creditScore": 699,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_33",
-    "loanAmount": 45010,
-    "profitToLoanRatio": 45,
-    "creditScore": 555,
+    "loanAmount": 44997,
+    "profitToLoanRatio": 30,
+    "creditScore": 699,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_34",
-    "loanAmount": 60000,
-    "profitToLoanRatio": 60,
-    "creditScore": 600,
+    "loanAmount": 44996,
+    "profitToLoanRatio": 29,
+    "creditScore": 550,
+    "riskofdebt": "high",
     "loanApproved": true
   },
   {
     "fileName": "record_35",
-    "loanAmount": 45020,
-    "profitToLoanRatio": 46,
-    "creditScore": 545,
-    "loanApproved": false
+    "loanAmount": 44995,
+    "profitToLoanRatio": 29,
+    "creditScore": 549,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_36",
-    "loanAmount": 65000,
-    "profitToLoanRatio": 62,
-    "creditScore": 430,
+    "loanAmount": 44994,
+    "profitToLoanRatio": 29,
+    "creditScore": 549,
+    "riskofdebt": "medium",
     "loanApproved": false
   },
   {
     "fileName": "record_37",
-    "loanAmount": 45030,
-    "profitToLoanRatio": 42,
-    "creditScore": 755,
+    "loanAmount": 85123,
+    "profitToLoanRatio": 65,
+    "creditScore": 820,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_38",
-    "loanAmount": 70000,
-    "profitToLoanRatio": 28,
-    "creditScore": 840,
-    "loanApproved": true
+    "loanAmount": 92456,
+    "profitToLoanRatio": 72,
+    "creditScore": 510,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_39",
-    "loanAmount": 45040,
-    "profitToLoanRatio": 41,
-    "creditScore": 745,
-    "loanApproved": false
+    "loanAmount": 88789,
+    "profitToLoanRatio": 55,
+    "creditScore": 450,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_40",
-    "loanAmount": 75000,
-    "profitToLoanRatio": 38,
-    "creditScore": 620,
-    "loanApproved": false
+    "loanAmount": 91234,
+    "profitToLoanRatio": 25,
+    "creditScore": 840,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_41",
-    "loanAmount": 44990,
-    "profitToLoanRatio": 33,
-    "creditScore": 705,
+    "loanAmount": 62345,
+    "profitToLoanRatio": 35,
+    "creditScore": 810,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_42",
-    "loanAmount": 32000,
-    "profitToLoanRatio": 52,
-    "creditScore": 810,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_43",
-    "loanAmount": 44980,
-    "profitToLoanRatio": 34,
-    "creditScore": 695,
+    "loanAmount": 71234,
+    "profitToLoanRatio": 41,
+    "creditScore": 650,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_43",
+    "loanAmount": 38123,
+    "profitToLoanRatio": 71,
+    "creditScore": 830,
+    "riskofdebt": "low",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_44",
-    "loanAmount": 34000,
-    "profitToLoanRatio": 62,
-    "creditScore": 520,
+    "loanAmount": 18234,
+    "profitToLoanRatio": 65,
+    "creditScore": 610,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_45",
-    "loanAmount": 44970,
-    "profitToLoanRatio": 28,
-    "creditScore": 555,
+    "loanAmount": 21345,
+    "profitToLoanRatio": 45,
+    "creditScore": 550,
+    "riskofdebt": "medium",
     "loanApproved": true
   },
   {
     "fileName": "record_46",
-    "loanAmount": 14000,
-    "profitToLoanRatio": 23,
-    "creditScore": 780,
+    "loanAmount": 25456,
+    "profitToLoanRatio": 21,
+    "creditScore": 815,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_47",
-    "loanAmount": 44960,
-    "profitToLoanRatio": 27,
-    "creditScore": 545,
-    "loanApproved": false
+    "loanAmount": 31567,
+    "profitToLoanRatio": 24,
+    "creditScore": 515,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_48",
-    "loanAmount": 13000,
-    "profitToLoanRatio": 25,
-    "creditScore": 460,
+    "loanAmount": 11678,
+    "profitToLoanRatio": 22,
+    "creditScore": 455,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_49",
-    "loanAmount": 45005,
-    "profitToLoanRatio": 48,
-    "creditScore": 552,
+    "loanAmount": 45010,
+    "profitToLoanRatio": 45,
+    "creditScore": 551,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_50",
-    "loanAmount": 88000,
-    "profitToLoanRatio": 66,
-    "creditScore": 825,
-    "loanApproved": true
+    "loanAmount": 45020,
+    "profitToLoanRatio": 46,
+    "creditScore": 549,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_51",
-    "loanAmount": 45006,
-    "profitToLoanRatio": 49,
-    "creditScore": 546,
-    "loanApproved": false
+    "loanAmount": 45030,
+    "profitToLoanRatio": 47,
+    "creditScore": 548,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_52",
-    "loanAmount": 92000,
-    "profitToLoanRatio": 71,
-    "creditScore": 440,
-    "loanApproved": false
+    "loanAmount": 45040,
+    "profitToLoanRatio": 44,
+    "creditScore": 751,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_53",
-    "loanAmount": 45007,
-    "profitToLoanRatio": 40,
-    "creditScore": 752,
+    "loanAmount": 45050,
+    "profitToLoanRatio": 43,
+    "creditScore": 749,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_54",
-    "loanAmount": 68000,
-    "profitToLoanRatio": 24,
-    "creditScore": 835,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_55",
-    "loanAmount": 45008,
-    "profitToLoanRatio": 39,
-    "creditScore": 746,
+    "loanAmount": 45060,
+    "profitToLoanRatio": 42,
+    "creditScore": 748,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_55",
+    "loanAmount": 44990,
+    "profitToLoanRatio": 30,
+    "creditScore": 701,
+    "riskofdebt": "medium",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_56",
-    "loanAmount": 78000,
-    "profitToLoanRatio": 34,
-    "creditScore": 660,
+    "loanAmount": 44980,
+    "profitToLoanRatio": 31,
+    "creditScore": 699,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_57",
-    "loanAmount": 44995,
-    "profitToLoanRatio": 31,
-    "creditScore": 702,
+    "loanAmount": 44970,
+    "profitToLoanRatio": 32,
+    "creditScore": 698,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_58",
-    "loanAmount": 28000,
-    "profitToLoanRatio": 56,
-    "creditScore": 790,
+    "loanAmount": 44960,
+    "profitToLoanRatio": 29,
+    "creditScore": 551,
+    "riskofdebt": "high",
     "loanApproved": true
   },
   {
     "fileName": "record_59",
-    "loanAmount": 44994,
-    "profitToLoanRatio": 32,
-    "creditScore": 696,
-    "loanApproved": false
+    "loanAmount": 44950,
+    "profitToLoanRatio": 28,
+    "creditScore": 549,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_60",
-    "loanAmount": 26000,
-    "profitToLoanRatio": 66,
-    "creditScore": 560,
+    "loanAmount": 44940,
+    "profitToLoanRatio": 27,
+    "creditScore": 548,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_61",
-    "loanAmount": 44993,
-    "profitToLoanRatio": 29,
-    "creditScore": 552,
+    "loanAmount": 95123,
+    "profitToLoanRatio": 68,
+    "creditScore": 825,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_62",
-    "loanAmount": 16000,
-    "profitToLoanRatio": 24,
-    "creditScore": 760,
-    "loanApproved": true
+    "loanAmount": 82456,
+    "profitToLoanRatio": 74,
+    "creditScore": 515,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_63",
-    "loanAmount": 44992,
-    "profitToLoanRatio": 28,
-    "creditScore": 546,
-    "loanApproved": false
+    "loanAmount": 78789,
+    "profitToLoanRatio": 58,
+    "creditScore": 455,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_64",
-    "loanAmount": 17000,
-    "profitToLoanRatio": 26,
-    "creditScore": 470,
-    "loanApproved": false
+    "loanAmount": 81234,
+    "profitToLoanRatio": 28,
+    "creditScore": 845,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_65",
-    "loanAmount": 45000,
-    "profitToLoanRatio": 50,
-    "creditScore": 560,
+    "loanAmount": 72345,
+    "profitToLoanRatio": 38,
+    "creditScore": 815,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_66",
-    "loanAmount": 100000,
-    "profitToLoanRatio": 75,
-    "creditScore": 850,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_67",
-    "loanAmount": 46000,
-    "profitToLoanRatio": 52,
-    "creditScore": 540,
+    "loanAmount": 61234,
+    "profitToLoanRatio": 42,
+    "creditScore": 655,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_67",
+    "loanAmount": 28123,
+    "profitToLoanRatio": 72,
+    "creditScore": 835,
+    "riskofdebt": "low",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_68",
-    "loanAmount": 99000,
-    "profitToLoanRatio": 74,
-    "creditScore": 410,
+    "loanAmount": 28234,
+    "profitToLoanRatio": 68,
+    "creditScore": 615,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_69",
-    "loanAmount": 47000,
-    "profitToLoanRatio": 40,
-    "creditScore": 760,
+    "loanAmount": 31345,
+    "profitToLoanRatio": 48,
+    "creditScore": 555,
+    "riskofdebt": "medium",
     "loanApproved": true
   },
   {
     "fileName": "record_70",
-    "loanAmount": 98000,
-    "profitToLoanRatio": 20,
-    "creditScore": 850,
+    "loanAmount": 35456,
+    "profitToLoanRatio": 22,
+    "creditScore": 820,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_71",
-    "loanAmount": 48000,
-    "profitToLoanRatio": 41,
-    "creditScore": 740,
-    "loanApproved": false
+    "loanAmount": 41567,
+    "profitToLoanRatio": 25,
+    "creditScore": 520,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_72",
-    "loanAmount": 97000,
-    "profitToLoanRatio": 21,
-    "creditScore": 700,
+    "loanAmount": 21678,
+    "profitToLoanRatio": 23,
+    "creditScore": 460,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_73",
-    "loanAmount": 44000,
-    "profitToLoanRatio": 30,
-    "creditScore": 710,
+    "loanAmount": 45110,
+    "profitToLoanRatio": 46,
+    "creditScore": 552,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_74",
-    "loanAmount": 10000,
-    "profitToLoanRatio": 75,
-    "creditScore": 850,
-    "loanApproved": true
+    "loanAmount": 45220,
+    "profitToLoanRatio": 47,
+    "creditScore": 547,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_75",
-    "loanAmount": 43000,
-    "profitToLoanRatio": 31,
-    "creditScore": 690,
-    "loanApproved": false
+    "loanAmount": 45330,
+    "profitToLoanRatio": 48,
+    "creditScore": 546,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_76",
-    "loanAmount": 11000,
-    "profitToLoanRatio": 74,
-    "creditScore": 420,
-    "loanApproved": false
+    "loanAmount": 45440,
+    "profitToLoanRatio": 43,
+    "creditScore": 752,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_77",
-    "loanAmount": 42000,
-    "profitToLoanRatio": 29,
-    "creditScore": 560,
+    "loanAmount": 45550,
+    "profitToLoanRatio": 42,
+    "creditScore": 747,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_78",
-    "loanAmount": 29000,
-    "profitToLoanRatio": 20,
-    "creditScore": 850,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_79",
-    "loanAmount": 41000,
-    "profitToLoanRatio": 28,
-    "creditScore": 540,
+    "loanAmount": 45660,
+    "profitToLoanRatio": 41,
+    "creditScore": 746,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_79",
+    "loanAmount": 44890,
+    "profitToLoanRatio": 31,
+    "creditScore": 702,
+    "riskofdebt": "medium",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_80",
-    "loanAmount": 28000,
-    "profitToLoanRatio": 21,
-    "creditScore": 410,
+    "loanAmount": 44880,
+    "profitToLoanRatio": 32,
+    "creditScore": 697,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_81",
-    "loanAmount": 45000,
-    "profitToLoanRatio": 45,
-    "creditScore": 550,
+    "loanAmount": 44870,
+    "profitToLoanRatio": 33,
+    "creditScore": 696,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_82",
-    "loanAmount": 95000,
-    "profitToLoanRatio": 72,
-    "creditScore": 810,
+    "loanAmount": 44860,
+    "profitToLoanRatio": 28,
+    "creditScore": 552,
+    "riskofdebt": "high",
     "loanApproved": true
   },
   {
     "fileName": "record_83",
-    "loanAmount": 45001,
-    "profitToLoanRatio": 45,
-    "creditScore": 549,
-    "loanApproved": false
+    "loanAmount": 44850,
+    "profitToLoanRatio": 27,
+    "creditScore": 547,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_84",
-    "loanAmount": 98000,
-    "profitToLoanRatio": 68,
-    "creditScore": 420,
+    "loanAmount": 44840,
+    "profitToLoanRatio": 26,
+    "creditScore": 546,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_85",
-    "loanAmount": 45002,
-    "profitToLoanRatio": 44,
-    "creditScore": 750,
+    "loanAmount": 75123,
+    "profitToLoanRatio": 66,
+    "creditScore": 821,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_86",
-    "loanAmount": 65000,
-    "profitToLoanRatio": 22,
-    "creditScore": 830,
-    "loanApproved": true
+    "loanAmount": 82457,
+    "profitToLoanRatio": 73,
+    "creditScore": 511,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_87",
-    "loanAmount": 45003,
-    "profitToLoanRatio": 44,
-    "creditScore": 749,
-    "loanApproved": false
+    "loanAmount": 78790,
+    "profitToLoanRatio": 56,
+    "creditScore": 451,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_88",
-    "loanAmount": 72000,
-    "profitToLoanRatio": 33,
-    "creditScore": 650,
-    "loanApproved": false
+    "loanAmount": 81235,
+    "profitToLoanRatio": 26,
+    "creditScore": 841,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_89",
-    "loanAmount": 44999,
-    "profitToLoanRatio": 30,
-    "creditScore": 700,
+    "loanAmount": 72346,
+    "profitToLoanRatio": 36,
+    "creditScore": 811,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_90",
-    "loanAmount": 18000,
-    "profitToLoanRatio": 55,
-    "creditScore": 780,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_91",
-    "loanAmount": 44998,
-    "profitToLoanRatio": 30,
-    "creditScore": 699,
+    "loanAmount": 61235,
+    "profitToLoanRatio": 43,
+    "creditScore": 651,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_91",
+    "loanAmount": 28124,
+    "profitToLoanRatio": 73,
+    "creditScore": 831,
+    "riskofdebt": "low",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_92",
-    "loanAmount": 22000,
-    "profitToLoanRatio": 65,
-    "creditScore": 550,
+    "loanAmount": 28235,
+    "profitToLoanRatio": 69,
+    "creditScore": 611,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_93",
-    "loanAmount": 44997,
-    "profitToLoanRatio": 29,
-    "creditScore": 550,
+    "loanAmount": 31346,
+    "profitToLoanRatio": 49,
+    "creditScore": 551,
+    "riskofdebt": "medium",
     "loanApproved": true
   },
   {
     "fileName": "record_94",
-    "loanAmount": 12000,
-    "profitToLoanRatio": 21,
-    "creditScore": 750,
+    "loanAmount": 35457,
+    "profitToLoanRatio": 23,
+    "creditScore": 822,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_95",
-    "loanAmount": 44996,
-    "profitToLoanRatio": 29,
-    "creditScore": 549,
-    "loanApproved": false
+    "loanAmount": 41568,
+    "profitToLoanRatio": 26,
+    "creditScore": 522,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_96",
-    "loanAmount": 11000,
-    "profitToLoanRatio": 23,
-    "creditScore": 480,
+    "loanAmount": 21679,
+    "profitToLoanRatio": 24,
+    "creditScore": 462,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_97",
-    "loanAmount": 45101,
-    "profitToLoanRatio": 45,
-    "creditScore": 556,
+    "loanAmount": 45115,
+    "profitToLoanRatio": 47,
+    "creditScore": 553,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_98",
-    "loanAmount": 60001,
-    "profitToLoanRatio": 61,
-    "creditScore": 601,
-    "loanApproved": true
+    "loanAmount": 45225,
+    "profitToLoanRatio": 48,
+    "creditScore": 544,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_99",
-    "loanAmount": 45201,
-    "profitToLoanRatio": 47,
-    "creditScore": 544,
-    "loanApproved": false
+    "loanAmount": 45335,
+    "profitToLoanRatio": 49,
+    "creditScore": 543,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_100",
-    "loanAmount": 65001,
-    "profitToLoanRatio": 63,
-    "creditScore": 431,
-    "loanApproved": false
+    "loanAmount": 45445,
+    "profitToLoanRatio": 42,
+    "creditScore": 753,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_101",
-    "loanAmount": 45301,
-    "profitToLoanRatio": 43,
-    "creditScore": 756,
+    "loanAmount": 45555,
+    "profitToLoanRatio": 41,
+    "creditScore": 744,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_102",
-    "loanAmount": 70001,
-    "profitToLoanRatio": 29,
-    "creditScore": 841,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_103",
-    "loanAmount": 45401,
-    "profitToLoanRatio": 42,
-    "creditScore": 744,
+    "loanAmount": 45665,
+    "profitToLoanRatio": 40,
+    "creditScore": 743,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_103",
+    "loanAmount": 44790,
+    "profitToLoanRatio": 32,
+    "creditScore": 703,
+    "riskofdebt": "medium",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_104",
-    "loanAmount": 75001,
-    "profitToLoanRatio": 37,
-    "creditScore": 621,
+    "loanAmount": 44780,
+    "profitToLoanRatio": 33,
+    "creditScore": 694,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_105",
-    "loanAmount": 44901,
+    "loanAmount": 44770,
     "profitToLoanRatio": 34,
-    "creditScore": 706,
+    "creditScore": 693,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_106",
-    "loanAmount": 32001,
-    "profitToLoanRatio": 53,
-    "creditScore": 811,
+    "loanAmount": 44760,
+    "profitToLoanRatio": 27,
+    "creditScore": 553,
+    "riskofdebt": "high",
     "loanApproved": true
   },
   {
     "fileName": "record_107",
-    "loanAmount": 44801,
-    "profitToLoanRatio": 35,
-    "creditScore": 694,
-    "loanApproved": false
+    "loanAmount": 44750,
+    "profitToLoanRatio": 26,
+    "creditScore": 544,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_108",
-    "loanAmount": 34001,
-    "profitToLoanRatio": 63,
-    "creditScore": 521,
+    "loanAmount": 44740,
+    "profitToLoanRatio": 25,
+    "creditScore": 543,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_109",
-    "loanAmount": 44701,
-    "profitToLoanRatio": 27,
-    "creditScore": 556,
+    "loanAmount": 65124,
+    "profitToLoanRatio": 67,
+    "creditScore": 822,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_110",
-    "loanAmount": 14001,
-    "profitToLoanRatio": 22,
-    "creditScore": 781,
-    "loanApproved": true
+    "loanAmount": 72457,
+    "profitToLoanRatio": 74,
+    "creditScore": 512,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_111",
-    "loanAmount": 44601,
-    "profitToLoanRatio": 26,
-    "creditScore": 544,
-    "loanApproved": false
+    "loanAmount": 68790,
+    "profitToLoanRatio": 57,
+    "creditScore": 452,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_112",
-    "loanAmount": 13001,
-    "profitToLoanRatio": 24,
-    "creditScore": 461,
-    "loanApproved": false
+    "loanAmount": 71235,
+    "profitToLoanRatio": 27,
+    "creditScore": 842,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_113",
-    "loanAmount": 45105,
-    "profitToLoanRatio": 49,
-    "creditScore": 553,
+    "loanAmount": 82346,
+    "profitToLoanRatio": 37,
+    "creditScore": 812,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_114",
-    "loanAmount": 88001,
-    "profitToLoanRatio": 67,
-    "creditScore": 826,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_115",
-    "loanAmount": 45205,
-    "profitToLoanRatio": 50,
-    "creditScore": 543,
+    "loanAmount": 51235,
+    "profitToLoanRatio": 44,
+    "creditScore": 652,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_115",
+    "loanAmount": 18124,
+    "profitToLoanRatio": 74,
+    "creditScore": 832,
+    "riskofdebt": "low",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_116",
-    "loanAmount": 92001,
-    "profitToLoanRatio": 72,
-    "creditScore": 441,
+    "loanAmount": 18235,
+    "profitToLoanRatio": 70,
+    "creditScore": 612,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_117",
-    "loanAmount": 45305,
-    "profitToLoanRatio": 39,
-    "creditScore": 753,
+    "loanAmount": 21346,
+    "profitToLoanRatio": 50,
+    "creditScore": 552,
+    "riskofdebt": "medium",
     "loanApproved": true
   },
   {
     "fileName": "record_118",
-    "loanAmount": 68001,
-    "profitToLoanRatio": 23,
-    "creditScore": 836,
+    "loanAmount": 25457,
+    "profitToLoanRatio": 24,
+    "creditScore": 823,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_119",
-    "loanAmount": 45405,
-    "profitToLoanRatio": 38,
-    "creditScore": 743,
-    "loanApproved": false
+    "loanAmount": 31568,
+    "profitToLoanRatio": 27,
+    "creditScore": 523,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_120",
-    "loanAmount": 78001,
-    "profitToLoanRatio": 33,
-    "creditScore": 661,
+    "loanAmount": 11679,
+    "profitToLoanRatio": 25,
+    "creditScore": 463,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_121",
-    "loanAmount": 44905,
-    "profitToLoanRatio": 32,
-    "creditScore": 703,
+    "loanAmount": 45120,
+    "profitToLoanRatio": 48,
+    "creditScore": 554,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_122",
-    "loanAmount": 28001,
-    "profitToLoanRatio": 57,
-    "creditScore": 791,
-    "loanApproved": true
+    "loanAmount": 45230,
+    "profitToLoanRatio": 49,
+    "creditScore": 541,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_123",
-    "loanAmount": 44805,
-    "profitToLoanRatio": 33,
-    "creditScore": 693,
-    "loanApproved": false
+    "loanAmount": 45340,
+    "profitToLoanRatio": 50,
+    "creditScore": 540,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_124",
-    "loanAmount": 26001,
-    "profitToLoanRatio": 67,
-    "creditScore": 561,
-    "loanApproved": false
+    "loanAmount": 45450,
+    "profitToLoanRatio": 41,
+    "creditScore": 754,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_125",
-    "loanAmount": 44705,
-    "profitToLoanRatio": 28,
-    "creditScore": 553,
+    "loanAmount": 45560,
+    "profitToLoanRatio": 40,
+    "creditScore": 741,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_126",
-    "loanAmount": 16001,
-    "profitToLoanRatio": 25,
-    "creditScore": 761,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_127",
-    "loanAmount": 44605,
-    "profitToLoanRatio": 27,
-    "creditScore": 543,
+    "loanAmount": 45670,
+    "profitToLoanRatio": 39,
+    "creditScore": 740,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_127",
+    "loanAmount": 44690,
+    "profitToLoanRatio": 33,
+    "creditScore": 704,
+    "riskofdebt": "medium",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_128",
-    "loanAmount": 17001,
-    "profitToLoanRatio": 27,
-    "creditScore": 471,
+    "loanAmount": 44680,
+    "profitToLoanRatio": 34,
+    "creditScore": 691,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_129",
-    "loanAmount": 45011,
-    "profitToLoanRatio": 51,
-    "creditScore": 561,
+    "loanAmount": 44670,
+    "profitToLoanRatio": 35,
+    "creditScore": 690,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_130",
-    "loanAmount": 100000,
-    "profitToLoanRatio": 75,
-    "creditScore": 850,
+    "loanAmount": 44660,
+    "profitToLoanRatio": 26,
+    "creditScore": 554,
+    "riskofdebt": "high",
     "loanApproved": true
   },
   {
     "fileName": "record_131",
-    "loanAmount": 46011,
-    "profitToLoanRatio": 53,
+    "loanAmount": 44650,
+    "profitToLoanRatio": 25,
     "creditScore": 541,
-    "loanApproved": false
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_132",
-    "loanAmount": 99001,
-    "profitToLoanRatio": 73,
-    "creditScore": 411,
+    "loanAmount": 44640,
+    "profitToLoanRatio": 24,
+    "creditScore": 540,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_133",
-    "loanAmount": 47011,
-    "profitToLoanRatio": 41,
-    "creditScore": 761,
+    "loanAmount": 55125,
+    "profitToLoanRatio": 68,
+    "creditScore": 823,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_134",
-    "loanAmount": 98001,
-    "profitToLoanRatio": 21,
-    "creditScore": 849,
-    "loanApproved": true
+    "loanAmount": 62458,
+    "profitToLoanRatio": 75,
+    "creditScore": 513,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_135",
-    "loanAmount": 48011,
-    "profitToLoanRatio": 42,
-    "creditScore": 741,
-    "loanApproved": false
+    "loanAmount": 58791,
+    "profitToLoanRatio": 57,
+    "creditScore": 453,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_136",
-    "loanAmount": 97001,
-    "profitToLoanRatio": 22,
-    "creditScore": 701,
-    "loanApproved": false
+    "loanAmount": 61236,
+    "profitToLoanRatio": 25,
+    "creditScore": 843,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_137",
-    "loanAmount": 44011,
-    "profitToLoanRatio": 31,
-    "creditScore": 711,
+    "loanAmount": 82347,
+    "profitToLoanRatio": 35,
+    "creditScore": 813,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_138",
-    "loanAmount": 10001,
-    "profitToLoanRatio": 74,
-    "creditScore": 849,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_139",
-    "loanAmount": 43011,
-    "profitToLoanRatio": 32,
-    "creditScore": 691,
+    "loanAmount": 51236,
+    "profitToLoanRatio": 45,
+    "creditScore": 653,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_139",
+    "loanAmount": 38125,
+    "profitToLoanRatio": 75,
+    "creditScore": 833,
+    "riskofdebt": "low",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_140",
-    "loanAmount": 11001,
-    "profitToLoanRatio": 73,
-    "creditScore": 421,
+    "loanAmount": 38236,
+    "profitToLoanRatio": 71,
+    "creditScore": 613,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_141",
-    "loanAmount": 42011,
-    "profitToLoanRatio": 28,
-    "creditScore": 561,
+    "loanAmount": 41347,
+    "profitToLoanRatio": 51,
+    "creditScore": 553,
+    "riskofdebt": "medium",
     "loanApproved": true
   },
   {
     "fileName": "record_142",
-    "loanAmount": 29001,
-    "profitToLoanRatio": 21,
-    "creditScore": 849,
+    "loanAmount": 45458,
+    "profitToLoanRatio": 25,
+    "creditScore": 824,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_143",
-    "loanAmount": 41011,
-    "profitToLoanRatio": 27,
-    "creditScore": 541,
-    "loanApproved": false
+    "loanAmount": 21569,
+    "profitToLoanRatio": 28,
+    "creditScore": 524,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_144",
-    "loanAmount": 28001,
-    "profitToLoanRatio": 22,
-    "creditScore": 411,
+    "loanAmount": 11680,
+    "profitToLoanRatio": 26,
+    "creditScore": 464,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_145",
-    "loanAmount": 45012,
-    "profitToLoanRatio": 46,
-    "creditScore": 551,
+    "loanAmount": 45125,
+    "profitToLoanRatio": 49,
+    "creditScore": 555,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_146",
-    "loanAmount": 95012,
-    "profitToLoanRatio": 73,
-    "creditScore": 811,
-    "loanApproved": true
+    "loanAmount": 45235,
+    "profitToLoanRatio": 50,
+    "creditScore": 539,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_147",
-    "loanAmount": 45112,
-    "profitToLoanRatio": 46,
-    "creditScore": 548,
-    "loanApproved": false
+    "loanAmount": 45345,
+    "profitToLoanRatio": 51,
+    "creditScore": 538,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_148",
-    "loanAmount": 98012,
-    "profitToLoanRatio": 69,
-    "creditScore": 421,
-    "loanApproved": false
+    "loanAmount": 45455,
+    "profitToLoanRatio": 40,
+    "creditScore": 755,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_149",
-    "loanAmount": 45212,
-    "profitToLoanRatio": 43,
-    "creditScore": 751,
+    "loanAmount": 45565,
+    "profitToLoanRatio": 39,
+    "creditScore": 739,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_150",
-    "loanAmount": 65012,
-    "profitToLoanRatio": 23,
-    "creditScore": 831,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_151",
-    "loanAmount": 45312,
-    "profitToLoanRatio": 43,
-    "creditScore": 748,
+    "loanAmount": 45675,
+    "profitToLoanRatio": 38,
+    "creditScore": 738,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
-    "fileName": "record_152",
-    "loanAmount": 72012,
+    "fileName": "record_151",
+    "loanAmount": 44590,
     "profitToLoanRatio": 34,
-    "creditScore": 651,
+    "creditScore": 705,
+    "riskofdebt": "medium",
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_152",
+    "loanAmount": 44580,
+    "profitToLoanRatio": 35,
+    "creditScore": 689,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_153",
-    "loanAmount": 44987,
-    "profitToLoanRatio": 31,
-    "creditScore": 701,
+    "loanAmount": 44570,
+    "profitToLoanRatio": 36,
+    "creditScore": 688,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_154",
-    "loanAmount": 18012,
-    "profitToLoanRatio": 56,
-    "creditScore": 781,
+    "loanAmount": 44560,
+    "profitToLoanRatio": 25,
+    "creditScore": 555,
+    "riskofdebt": "high",
     "loanApproved": true
   },
   {
     "fileName": "record_155",
-    "loanAmount": 44986,
-    "profitToLoanRatio": 31,
-    "creditScore": 698,
-    "loanApproved": false
+    "loanAmount": 44550,
+    "profitToLoanRatio": 24,
+    "creditScore": 539,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_156",
-    "loanAmount": 22012,
-    "profitToLoanRatio": 66,
-    "creditScore": 551,
+    "loanAmount": 44540,
+    "profitToLoanRatio": 23,
+    "creditScore": 538,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_157",
-    "loanAmount": 44985,
-    "profitToLoanRatio": 28,
-    "creditScore": 551,
+    "loanAmount": 45128,
+    "profitToLoanRatio": 49,
+    "creditScore": 556,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_158",
-    "loanAmount": 12012,
-    "profitToLoanRatio": 22,
-    "creditScore": 751,
-    "loanApproved": true
+    "loanAmount": 45238,
+    "profitToLoanRatio": 50,
+    "creditScore": 539,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_159",
-    "loanAmount": 44984,
-    "profitToLoanRatio": 28,
-    "creditScore": 548,
-    "loanApproved": false
+    "loanAmount": 45348,
+    "profitToLoanRatio": 51,
+    "creditScore": 538,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_160",
-    "loanAmount": 11012,
-    "profitToLoanRatio": 24,
-    "creditScore": 481,
-    "loanApproved": false
+    "loanAmount": 45458,
+    "profitToLoanRatio": 40,
+    "creditScore": 756,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_161",
-    "loanAmount": 45110,
-    "profitToLoanRatio": 46,
-    "creditScore": 554,
+    "loanAmount": 45568,
+    "profitToLoanRatio": 39,
+    "creditScore": 739,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_162",
-    "loanAmount": 60100,
-    "profitToLoanRatio": 62,
-    "creditScore": 604,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_163",
-    "loanAmount": 45210,
-    "profitToLoanRatio": 48,
-    "creditScore": 543,
+    "loanAmount": 45678,
+    "profitToLoanRatio": 38,
+    "creditScore": 738,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_163",
+    "loanAmount": 44490,
+    "profitToLoanRatio": 35,
+    "creditScore": 706,
+    "riskofdebt": "medium",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_164",
-    "loanAmount": 65100,
-    "profitToLoanRatio": 64,
-    "creditScore": 434,
+    "loanAmount": 44480,
+    "profitToLoanRatio": 36,
+    "creditScore": 689,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_165",
-    "loanAmount": 45310,
-    "profitToLoanRatio": 41,
-    "creditScore": 754,
+    "loanAmount": 44470,
+    "profitToLoanRatio": 37,
+    "creditScore": 688,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_166",
-    "loanAmount": 70100,
-    "profitToLoanRatio": 27,
-    "creditScore": 844,
+    "loanAmount": 44460,
+    "profitToLoanRatio": 24,
+    "creditScore": 556,
+    "riskofdebt": "high",
     "loanApproved": true
   },
   {
     "fileName": "record_167",
-    "loanAmount": 45410,
-    "profitToLoanRatio": 40,
-    "creditScore": 743,
-    "loanApproved": false
+    "loanAmount": 44450,
+    "profitToLoanRatio": 23,
+    "creditScore": 539,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_168",
-    "loanAmount": 75100,
-    "profitToLoanRatio": 36,
-    "creditScore": 624,
+    "loanAmount": 44440,
+    "profitToLoanRatio": 22,
+    "creditScore": 538,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_169",
-    "loanAmount": 44910,
-    "profitToLoanRatio": 32,
-    "creditScore": 704,
+    "loanAmount": 45131,
+    "profitToLoanRatio": 52,
+    "creditScore": 557,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_170",
-    "loanAmount": 32100,
-    "profitToLoanRatio": 54,
-    "creditScore": 814,
-    "loanApproved": true
+    "loanAmount": 45241,
+    "profitToLoanRatio": 53,
+    "creditScore": 536,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_171",
-    "loanAmount": 44810,
-    "profitToLoanRatio": 33,
-    "creditScore": 693,
-    "loanApproved": false
+    "loanAmount": 45351,
+    "profitToLoanRatio": 54,
+    "creditScore": 535,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_172",
-    "loanAmount": 34100,
-    "profitToLoanRatio": 64,
-    "creditScore": 524,
-    "loanApproved": false
+    "loanAmount": 45461,
+    "profitToLoanRatio": 39,
+    "creditScore": 757,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_173",
-    "loanAmount": 44710,
-    "profitToLoanRatio": 27,
-    "creditScore": 554,
+    "loanAmount": 45571,
+    "profitToLoanRatio": 38,
+    "creditScore": 736,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_174",
-    "loanAmount": 14100,
-    "profitToLoanRatio": 22,
-    "creditScore": 784,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_175",
-    "loanAmount": 44610,
-    "profitToLoanRatio": 26,
-    "creditScore": 543,
+    "loanAmount": 45681,
+    "profitToLoanRatio": 37,
+    "creditScore": 735,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_175",
+    "loanAmount": 44390,
+    "profitToLoanRatio": 36,
+    "creditScore": 707,
+    "riskofdebt": "medium",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_176",
-    "loanAmount": 13100,
-    "profitToLoanRatio": 23,
-    "creditScore": 464,
+    "loanAmount": 44380,
+    "profitToLoanRatio": 37,
+    "creditScore": 686,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_177",
-    "loanAmount": 45107,
-    "profitToLoanRatio": 47,
-    "creditScore": 554,
+    "loanAmount": 44370,
+    "profitToLoanRatio": 38,
+    "creditScore": 685,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_178",
-    "loanAmount": 88100,
-    "profitToLoanRatio": 68,
-    "creditScore": 827,
+    "loanAmount": 44360,
+    "profitToLoanRatio": 23,
+    "creditScore": 557,
+    "riskofdebt": "high",
     "loanApproved": true
   },
   {
     "fileName": "record_179",
-    "loanAmount": 45207,
-    "profitToLoanRatio": 48,
-    "creditScore": 542,
-    "loanApproved": false
+    "loanAmount": 44350,
+    "profitToLoanRatio": 22,
+    "creditScore": 536,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_180",
-    "loanAmount": 92100,
-    "profitToLoanRatio": 73,
-    "creditScore": 442,
+    "loanAmount": 44340,
+    "profitToLoanRatio": 21,
+    "creditScore": 535,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_181",
-    "loanAmount": 45307,
-    "profitToLoanRatio": 41,
-    "creditScore": 754,
+    "loanAmount": 45134,
+    "profitToLoanRatio": 53,
+    "creditScore": 558,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_182",
-    "loanAmount": 68100,
-    "profitToLoanRatio": 25,
-    "creditScore": 837,
-    "loanApproved": true
+    "loanAmount": 45244,
+    "profitToLoanRatio": 54,
+    "creditScore": 534,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_183",
-    "loanAmount": 45407,
-    "profitToLoanRatio": 40,
-    "creditScore": 742,
-    "loanApproved": false
+    "loanAmount": 45354,
+    "profitToLoanRatio": 55,
+    "creditScore": 533,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_184",
-    "loanAmount": 78100,
-    "profitToLoanRatio": 35,
-    "creditScore": 662,
-    "loanApproved": false
+    "loanAmount": 45464,
+    "profitToLoanRatio": 38,
+    "creditScore": 758,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_185",
-    "loanAmount": 44907,
-    "profitToLoanRatio": 33,
-    "creditScore": 704,
+    "loanAmount": 45574,
+    "profitToLoanRatio": 37,
+    "creditScore": 734,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_186",
-    "loanAmount": 28100,
-    "profitToLoanRatio": 58,
-    "creditScore": 792,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_187",
-    "loanAmount": 44807,
-    "profitToLoanRatio": 34,
-    "creditScore": 692,
+    "loanAmount": 45684,
+    "profitToLoanRatio": 36,
+    "creditScore": 733,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_187",
+    "loanAmount": 44290,
+    "profitToLoanRatio": 37,
+    "creditScore": 708,
+    "riskofdebt": "medium",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_188",
-    "loanAmount": 26100,
-    "profitToLoanRatio": 68,
-    "creditScore": 562,
+    "loanAmount": 44280,
+    "profitToLoanRatio": 38,
+    "creditScore": 684,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_189",
-    "loanAmount": 44707,
-    "profitToLoanRatio": 26,
-    "creditScore": 554,
+    "loanAmount": 44270,
+    "profitToLoanRatio": 39,
+    "creditScore": 683,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_190",
-    "loanAmount": 16100,
-    "profitToLoanRatio": 26,
-    "creditScore": 762,
+    "loanAmount": 44260,
+    "profitToLoanRatio": 22,
+    "creditScore": 558,
+    "riskofdebt": "high",
     "loanApproved": true
   },
   {
     "fileName": "record_191",
-    "loanAmount": 44607,
-    "profitToLoanRatio": 25,
-    "creditScore": 542,
-    "loanApproved": false
+    "loanAmount": 44250,
+    "profitToLoanRatio": 21,
+    "creditScore": 534,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_192",
-    "loanAmount": 17100,
-    "profitToLoanRatio": 28,
-    "creditScore": 472,
+    "loanAmount": 44240,
+    "profitToLoanRatio": 20,
+    "creditScore": 533,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_193",
-    "loanAmount": 45111,
-    "profitToLoanRatio": 52,
-    "creditScore": 562,
+    "loanAmount": 55126,
+    "profitToLoanRatio": 69,
+    "creditScore": 824,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_194",
-    "loanAmount": 100000,
-    "profitToLoanRatio": 75,
-    "creditScore": 850,
-    "loanApproved": true
+    "loanAmount": 62459,
+    "profitToLoanRatio": 70,
+    "creditScore": 514,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_195",
-    "loanAmount": 46111,
-    "profitToLoanRatio": 54,
-    "creditScore": 542,
-    "loanApproved": false
+    "loanAmount": 58792,
+    "profitToLoanRatio": 58,
+    "creditScore": 454,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_196",
-    "loanAmount": 99111,
-    "profitToLoanRatio": 72,
-    "creditScore": 412,
-    "loanApproved": false
+    "loanAmount": 61237,
+    "profitToLoanRatio": 24,
+    "creditScore": 844,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_197",
-    "loanAmount": 47111,
-    "profitToLoanRatio": 42,
-    "creditScore": 762,
+    "loanAmount": 82348,
+    "profitToLoanRatio": 34,
+    "creditScore": 814,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_198",
-    "loanAmount": 98111,
-    "profitToLoanRatio": 22,
-    "creditScore": 848,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_199",
-    "loanAmount": 48111,
-    "profitToLoanRatio": 43,
-    "creditScore": 742,
+    "loanAmount": 51237,
+    "profitToLoanRatio": 46,
+    "creditScore": 654,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_199",
+    "loanAmount": 38126,
+    "profitToLoanRatio": 70,
+    "creditScore": 834,
+    "riskofdebt": "low",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_200",
-    "loanAmount": 97111,
-    "profitToLoanRatio": 23,
-    "creditScore": 702,
+    "loanAmount": 38237,
+    "profitToLoanRatio": 72,
+    "creditScore": 614,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_201",
-    "loanAmount": 44111,
-    "profitToLoanRatio": 32,
-    "creditScore": 712,
+    "loanAmount": 41348,
+    "profitToLoanRatio": 52,
+    "creditScore": 554,
+    "riskofdebt": "medium",
     "loanApproved": true
   },
   {
     "fileName": "record_202",
-    "loanAmount": 10111,
-    "profitToLoanRatio": 73,
-    "creditScore": 848,
+    "loanAmount": 45459,
+    "profitToLoanRatio": 26,
+    "creditScore": 825,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_203",
-    "loanAmount": 43111,
-    "profitToLoanRatio": 33,
-    "creditScore": 692,
-    "loanApproved": false
+    "loanAmount": 21570,
+    "profitToLoanRatio": 29,
+    "creditScore": 525,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_204",
-    "loanAmount": 11111,
-    "profitToLoanRatio": 72,
-    "creditScore": 422,
+    "loanAmount": 11681,
+    "profitToLoanRatio": 27,
+    "creditScore": 465,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_205",
-    "loanAmount": 42111,
-    "profitToLoanRatio": 27,
-    "creditScore": 562,
+    "loanAmount": 45126,
+    "profitToLoanRatio": 50,
+    "creditScore": 556,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_206",
-    "loanAmount": 29111,
-    "profitToLoanRatio": 22,
-    "creditScore": 848,
-    "loanApproved": true
+    "loanAmount": 45236,
+    "profitToLoanRatio": 51,
+    "creditScore": 538,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_207",
-    "loanAmount": 41111,
-    "profitToLoanRatio": 26,
-    "creditScore": 542,
-    "loanApproved": false
+    "loanAmount": 45346,
+    "profitToLoanRatio": 52,
+    "creditScore": 537,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_208",
-    "loanAmount": 28111,
-    "profitToLoanRatio": 23,
-    "creditScore": 412,
-    "loanApproved": false
+    "loanAmount": 45456,
+    "profitToLoanRatio": 39,
+    "creditScore": 756,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_209",
-    "loanAmount": 45113,
-    "profitToLoanRatio": 47,
-    "creditScore": 552,
+    "loanAmount": 45566,
+    "profitToLoanRatio": 38,
+    "creditScore": 738,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_210",
-    "loanAmount": 95113,
-    "profitToLoanRatio": 74,
-    "creditScore": 812,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_211",
-    "loanAmount": 45213,
-    "profitToLoanRatio": 47,
-    "creditScore": 547,
+    "loanAmount": 45676,
+    "profitToLoanRatio": 37,
+    "creditScore": 737,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_211",
+    "loanAmount": 44391,
+    "profitToLoanRatio": 34,
+    "creditScore": 707,
+    "riskofdebt": "medium",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_212",
-    "loanAmount": 98113,
-    "profitToLoanRatio": 70,
-    "creditScore": 422,
+    "loanAmount": 44381,
+    "profitToLoanRatio": 35,
+    "creditScore": 688,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_213",
-    "loanAmount": 45313,
-    "profitToLoanRatio": 42,
-    "creditScore": 752,
+    "loanAmount": 44371,
+    "profitToLoanRatio": 36,
+    "creditScore": 687,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_214",
-    "loanAmount": 65113,
-    "profitToLoanRatio": 24,
-    "creditScore": 832,
+    "loanAmount": 44361,
+    "profitToLoanRatio": 22,
+    "creditScore": 556,
+    "riskofdebt": "high",
     "loanApproved": true
   },
   {
     "fileName": "record_215",
-    "loanAmount": 45413,
-    "profitToLoanRatio": 42,
-    "creditScore": 747,
-    "loanApproved": false
+    "loanAmount": 44351,
+    "profitToLoanRatio": 21,
+    "creditScore": 538,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_216",
-    "loanAmount": 72113,
-    "profitToLoanRatio": 35,
-    "creditScore": 652,
+    "loanAmount": 44341,
+    "profitToLoanRatio": 20,
+    "creditScore": 537,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_217",
-    "loanAmount": 44887,
-    "profitToLoanRatio": 32,
-    "creditScore": 702,
+    "loanAmount": 45129,
+    "profitToLoanRatio": 51,
+    "creditScore": 557,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_218",
-    "loanAmount": 18113,
-    "profitToLoanRatio": 57,
-    "creditScore": 782,
-    "loanApproved": true
+    "loanAmount": 45239,
+    "profitToLoanRatio": 52,
+    "creditScore": 537,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_219",
-    "loanAmount": 44886,
-    "profitToLoanRatio": 32,
-    "creditScore": 697,
-    "loanApproved": false
+    "loanAmount": 45349,
+    "profitToLoanRatio": 53,
+    "creditScore": 536,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_220",
-    "loanAmount": 22113,
-    "profitToLoanRatio": 67,
-    "creditScore": 552,
-    "loanApproved": false
+    "loanAmount": 45459,
+    "profitToLoanRatio": 38,
+    "creditScore": 757,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_221",
-    "loanAmount": 44885,
-    "profitToLoanRatio": 27,
-    "creditScore": 552,
+    "loanAmount": 45569,
+    "profitToLoanRatio": 37,
+    "creditScore": 737,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_222",
-    "loanAmount": 12113,
-    "profitToLoanRatio": 23,
-    "creditScore": 752,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_223",
-    "loanAmount": 44884,
-    "profitToLoanRatio": 27,
-    "creditScore": 547,
+    "loanAmount": 45679,
+    "profitToLoanRatio": 36,
+    "creditScore": 736,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_223",
+    "loanAmount": 44291,
+    "profitToLoanRatio": 36,
+    "creditScore": 707,
+    "riskofdebt": "medium",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_224",
-    "loanAmount": 11113,
-    "profitToLoanRatio": 25,
-    "creditScore": 482,
+    "loanAmount": 44281,
+    "profitToLoanRatio": 37,
+    "creditScore": 687,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_225",
-    "loanAmount": 45115,
-    "profitToLoanRatio": 48,
-    "creditScore": 553,
+    "loanAmount": 44271,
+    "profitToLoanRatio": 38,
+    "creditScore": 686,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_226",
-    "loanAmount": 60115,
-    "profitToLoanRatio": 63,
-    "creditScore": 603,
+    "loanAmount": 44261,
+    "profitToLoanRatio": 21,
+    "creditScore": 557,
+    "riskofdebt": "high",
     "loanApproved": true
   },
   {
     "fileName": "record_227",
-    "loanAmount": 45215,
-    "profitToLoanRatio": 49,
-    "creditScore": 542,
-    "loanApproved": false
+    "loanAmount": 44251,
+    "profitToLoanRatio": 20,
+    "creditScore": 537,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_228",
-    "loanAmount": 65115,
-    "profitToLoanRatio": 65,
-    "creditScore": 433,
+    "loanAmount": 44241,
+    "profitToLoanRatio": 29,
+    "creditScore": 536,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_229",
-    "loanAmount": 45315,
-    "profitToLoanRatio": 40,
-    "creditScore": 753,
+    "loanAmount": 45132,
+    "profitToLoanRatio": 52,
+    "creditScore": 558,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_230",
-    "loanAmount": 70115,
-    "profitToLoanRatio": 26,
-    "creditScore": 843,
-    "loanApproved": true
+    "loanAmount": 45242,
+    "profitToLoanRatio": 53,
+    "creditScore": 535,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_231",
-    "loanAmount": 45415,
-    "profitToLoanRatio": 39,
-    "creditScore": 742,
-    "loanApproved": false
+    "loanAmount": 45352,
+    "profitToLoanRatio": 54,
+    "creditScore": 534,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_232",
-    "loanAmount": 75115,
-    "profitToLoanRatio": 35,
-    "creditScore": 623,
-    "loanApproved": false
+    "loanAmount": 45462,
+    "profitToLoanRatio": 37,
+    "creditScore": 758,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_233",
-    "loanAmount": 44915,
-    "profitToLoanRatio": 33,
-    "creditScore": 703,
+    "loanAmount": 45572,
+    "profitToLoanRatio": 36,
+    "creditScore": 735,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_234",
-    "loanAmount": 32115,
-    "profitToLoanRatio": 55,
-    "creditScore": 813,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_235",
-    "loanAmount": 44815,
-    "profitToLoanRatio": 34,
-    "creditScore": 692,
+    "loanAmount": 45682,
+    "profitToLoanRatio": 35,
+    "creditScore": 734,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_235",
+    "loanAmount": 44190,
+    "profitToLoanRatio": 38,
+    "creditScore": 708,
+    "riskofdebt": "medium",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_236",
-    "loanAmount": 34115,
-    "profitToLoanRatio": 65,
-    "creditScore": 523,
+    "loanAmount": 44180,
+    "profitToLoanRatio": 39,
+    "creditScore": 685,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_237",
-    "loanAmount": 44715,
-    "profitToLoanRatio": 26,
-    "creditScore": 553,
+    "loanAmount": 44170,
+    "profitToLoanRatio": 20,
+    "creditScore": 684,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_238",
-    "loanAmount": 14115,
-    "profitToLoanRatio": 23,
-    "creditScore": 783,
+    "loanAmount": 44160,
+    "profitToLoanRatio": 20,
+    "creditScore": 558,
+    "riskofdebt": "high",
     "loanApproved": true
   },
   {
     "fileName": "record_239",
-    "loanAmount": 44615,
-    "profitToLoanRatio": 25,
-    "creditScore": 542,
-    "loanApproved": false
+    "loanAmount": 44150,
+    "profitToLoanRatio": 29,
+    "creditScore": 535,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_240",
-    "loanAmount": 13115,
-    "profitToLoanRatio": 22,
-    "creditScore": 463,
+    "loanAmount": 44140,
+    "profitToLoanRatio": 28,
+    "creditScore": 534,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_241",
-    "loanAmount": 45118,
-    "profitToLoanRatio": 48,
-    "creditScore": 555,
+    "loanAmount": 55127,
+    "profitToLoanRatio": 70,
+    "creditScore": 825,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_242",
-    "loanAmount": 88118,
+    "loanAmount": 62460,
     "profitToLoanRatio": 69,
-    "creditScore": 828,
-    "loanApproved": true
+    "creditScore": 515,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_243",
-    "loanAmount": 45218,
-    "profitToLoanRatio": 49,
-    "creditScore": 541,
-    "loanApproved": false
+    "loanAmount": 58793,
+    "profitToLoanRatio": 59,
+    "creditScore": 455,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_244",
-    "loanAmount": 92118,
-    "profitToLoanRatio": 74,
-    "creditScore": 443,
-    "loanApproved": false
+    "loanAmount": 61238,
+    "profitToLoanRatio": 23,
+    "creditScore": 845,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_245",
-    "loanAmount": 45318,
-    "profitToLoanRatio": 42,
-    "creditScore": 755,
+    "loanAmount": 82349,
+    "profitToLoanRatio": 33,
+    "creditScore": 815,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_246",
-    "loanAmount": 68118,
-    "profitToLoanRatio": 26,
-    "creditScore": 838,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_247",
-    "loanAmount": 45418,
-    "profitToLoanRatio": 41,
-    "creditScore": 741,
+    "loanAmount": 51238,
+    "profitToLoanRatio": 47,
+    "creditScore": 655,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_247",
+    "loanAmount": 38127,
+    "profitToLoanRatio": 69,
+    "creditScore": 835,
+    "riskofdebt": "low",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_248",
-    "loanAmount": 78118,
-    "profitToLoanRatio": 36,
-    "creditScore": 663,
+    "loanAmount": 38238,
+    "profitToLoanRatio": 73,
+    "creditScore": 615,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_249",
-    "loanAmount": 44918,
-    "profitToLoanRatio": 34,
-    "creditScore": 705,
+    "loanAmount": 41349,
+    "profitToLoanRatio": 53,
+    "creditScore": 555,
+    "riskofdebt": "medium",
     "loanApproved": true
   },
   {
     "fileName": "record_250",
-    "loanAmount": 28118,
-    "profitToLoanRatio": 59,
-    "creditScore": 793,
+    "loanAmount": 45460,
+    "profitToLoanRatio": 27,
+    "creditScore": 826,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_251",
-    "loanAmount": 44818,
-    "profitToLoanRatio": 35,
-    "creditScore": 691,
-    "loanApproved": false
+    "loanAmount": 21571,
+    "profitToLoanRatio": 28,
+    "creditScore": 526,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_252",
-    "loanAmount": 26118,
-    "profitToLoanRatio": 69,
-    "creditScore": 563,
+    "loanAmount": 11682,
+    "profitToLoanRatio": 28,
+    "creditScore": 466,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_253",
-    "loanAmount": 44718,
-    "profitToLoanRatio": 25,
-    "creditScore": 555,
+    "loanAmount": 45127,
+    "profitToLoanRatio": 51,
+    "creditScore": 557,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_254",
-    "loanAmount": 16118,
-    "profitToLoanRatio": 27,
-    "creditScore": 763,
-    "loanApproved": true
+    "loanAmount": 45237,
+    "profitToLoanRatio": 52,
+    "creditScore": 537,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_255",
-    "loanAmount": 44618,
-    "profitToLoanRatio": 24,
-    "creditScore": 541,
-    "loanApproved": false
+    "loanAmount": 45347,
+    "profitToLoanRatio": 53,
+    "creditScore": 536,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_256",
-    "loanAmount": 17118,
-    "profitToLoanRatio": 29,
-    "creditScore": 473,
-    "loanApproved": false
+    "loanAmount": 45457,
+    "profitToLoanRatio": 38,
+    "creditScore": 757,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_257",
-    "loanAmount": 45121,
-    "profitToLoanRatio": 53,
-    "creditScore": 563,
+    "loanAmount": 45567,
+    "profitToLoanRatio": 37,
+    "creditScore": 737,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_258",
-    "loanAmount": 100000,
-    "profitToLoanRatio": 75,
-    "creditScore": 850,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_259",
-    "loanAmount": 46121,
-    "profitToLoanRatio": 55,
-    "creditScore": 543,
+    "loanAmount": 45677,
+    "profitToLoanRatio": 36,
+    "creditScore": 736,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_259",
+    "loanAmount": 44191,
+    "profitToLoanRatio": 36,
+    "creditScore": 707,
+    "riskofdebt": "medium",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_260",
-    "loanAmount": 99121,
-    "profitToLoanRatio": 71,
-    "creditScore": 413,
+    "loanAmount": 44181,
+    "profitToLoanRatio": 37,
+    "creditScore": 687,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_261",
-    "loanAmount": 47121,
-    "profitToLoanRatio": 43,
-    "creditScore": 763,
+    "loanAmount": 44171,
+    "profitToLoanRatio": 38,
+    "creditScore": 686,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_262",
-    "loanAmount": 98121,
-    "profitToLoanRatio": 23,
-    "creditScore": 847,
+    "loanAmount": 44161,
+    "profitToLoanRatio": 21,
+    "creditScore": 557,
+    "riskofdebt": "high",
     "loanApproved": true
   },
   {
     "fileName": "record_263",
-    "loanAmount": 48121,
-    "profitToLoanRatio": 44,
-    "creditScore": 743,
-    "loanApproved": false
+    "loanAmount": 44151,
+    "profitToLoanRatio": 20,
+    "creditScore": 537,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_264",
-    "loanAmount": 97121,
-    "profitToLoanRatio": 24,
-    "creditScore": 703,
+    "loanAmount": 44141,
+    "profitToLoanRatio": 29,
+    "creditScore": 536,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_265",
-    "loanAmount": 44121,
-    "profitToLoanRatio": 33,
-    "creditScore": 713,
+    "loanAmount": 45130,
+    "profitToLoanRatio": 52,
+    "creditScore": 558,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_266",
-    "loanAmount": 10121,
-    "profitToLoanRatio": 72,
-    "creditScore": 847,
-    "loanApproved": true
+    "loanAmount": 45240,
+    "profitToLoanRatio": 53,
+    "creditScore": 535,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_267",
-    "loanAmount": 43121,
-    "profitToLoanRatio": 34,
-    "creditScore": 693,
-    "loanApproved": false
+    "loanAmount": 45350,
+    "profitToLoanRatio": 54,
+    "creditScore": 534,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_268",
-    "loanAmount": 11121,
-    "profitToLoanRatio": 71,
-    "creditScore": 423,
-    "loanApproved": false
+    "loanAmount": 45460,
+    "profitToLoanRatio": 37,
+    "creditScore": 758,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_269",
-    "loanAmount": 42121,
-    "profitToLoanRatio": 26,
-    "creditScore": 563,
+    "loanAmount": 45570,
+    "profitToLoanRatio": 36,
+    "creditScore": 735,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_270",
-    "loanAmount": 29121,
-    "profitToLoanRatio": 23,
-    "creditScore": 847,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_271",
-    "loanAmount": 41121,
-    "profitToLoanRatio": 25,
-    "creditScore": 543,
+    "loanAmount": 45680,
+    "profitToLoanRatio": 35,
+    "creditScore": 734,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_271",
+    "loanAmount": 44090,
+    "profitToLoanRatio": 38,
+    "creditScore": 708,
+    "riskofdebt": "medium",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_272",
-    "loanAmount": 28121,
-    "profitToLoanRatio": 24,
-    "creditScore": 413,
+    "loanAmount": 44080,
+    "profitToLoanRatio": 39,
+    "creditScore": 685,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_273",
-    "loanAmount": 45123,
-    "profitToLoanRatio": 48,
-    "creditScore": 553,
+    "loanAmount": 44070,
+    "profitToLoanRatio": 20,
+    "creditScore": 684,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_274",
-    "loanAmount": 95123,
-    "profitToLoanRatio": 75,
-    "creditScore": 813,
+    "loanAmount": 44060,
+    "profitToLoanRatio": 20,
+    "creditScore": 558,
+    "riskofdebt": "high",
     "loanApproved": true
   },
   {
     "fileName": "record_275",
-    "loanAmount": 45223,
-    "profitToLoanRatio": 48,
-    "creditScore": 546,
-    "loanApproved": false
+    "loanAmount": 44050,
+    "profitToLoanRatio": 29,
+    "creditScore": 535,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_276",
-    "loanAmount": 98123,
-    "profitToLoanRatio": 71,
-    "creditScore": 423,
+    "loanAmount": 44040,
+    "profitToLoanRatio": 28,
+    "creditScore": 534,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_277",
-    "loanAmount": 45323,
-    "profitToLoanRatio": 41,
-    "creditScore": 753,
+    "loanAmount": 55128,
+    "profitToLoanRatio": 71,
+    "creditScore": 826,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_278",
-    "loanAmount": 65123,
-    "profitToLoanRatio": 25,
-    "creditScore": 833,
-    "loanApproved": true
+    "loanAmount": 62461,
+    "profitToLoanRatio": 68,
+    "creditScore": 516,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_279",
-    "loanAmount": 45423,
-    "profitToLoanRatio": 41,
-    "creditScore": 746,
-    "loanApproved": false
+    "loanAmount": 58794,
+    "profitToLoanRatio": 60,
+    "creditScore": 456,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_280",
-    "loanAmount": 72123,
-    "profitToLoanRatio": 36,
-    "creditScore": 653,
-    "loanApproved": false
+    "loanAmount": 61239,
+    "profitToLoanRatio": 22,
+    "creditScore": 846,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_281",
-    "loanAmount": 44883,
-    "profitToLoanRatio": 33,
-    "creditScore": 703,
+    "loanAmount": 82350,
+    "profitToLoanRatio": 32,
+    "creditScore": 816,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_282",
-    "loanAmount": 18123,
-    "profitToLoanRatio": 58,
-    "creditScore": 783,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_283",
-    "loanAmount": 44882,
-    "profitToLoanRatio": 33,
-    "creditScore": 696,
+    "loanAmount": 51239,
+    "profitToLoanRatio": 48,
+    "creditScore": 656,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
-    "fileName": "record_284",
-    "loanAmount": 22123,
+    "fileName": "record_283",
+    "loanAmount": 38128,
     "profitToLoanRatio": 68,
-    "creditScore": 553,
+    "creditScore": 836,
+    "riskofdebt": "low",
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_284",
+    "loanAmount": 38239,
+    "profitToLoanRatio": 74,
+    "creditScore": 616,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_285",
-    "loanAmount": 44881,
-    "profitToLoanRatio": 26,
-    "creditScore": 553,
+    "loanAmount": 41350,
+    "profitToLoanRatio": 54,
+    "creditScore": 556,
+    "riskofdebt": "medium",
     "loanApproved": true
   },
   {
     "fileName": "record_286",
-    "loanAmount": 12123,
-    "profitToLoanRatio": 24,
-    "creditScore": 753,
+    "loanAmount": 45461,
+    "profitToLoanRatio": 28,
+    "creditScore": 827,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_287",
-    "loanAmount": 44880,
-    "profitToLoanRatio": 26,
-    "creditScore": 546,
-    "loanApproved": false
+    "loanAmount": 21572,
+    "profitToLoanRatio": 27,
+    "creditScore": 527,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_288",
-    "loanAmount": 11123,
-    "profitToLoanRatio": 26,
-    "creditScore": 483,
+    "loanAmount": 11683,
+    "profitToLoanRatio": 29,
+    "creditScore": 467,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_289",
-    "loanAmount": 45125,
-    "profitToLoanRatio": 49,
-    "creditScore": 554,
+    "loanAmount": 45130,
+    "profitToLoanRatio": 51,
+    "creditScore": 558,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_290",
-    "loanAmount": 60125,
-    "profitToLoanRatio": 64,
-    "creditScore": 604,
-    "loanApproved": true
+    "loanAmount": 45240,
+    "profitToLoanRatio": 52,
+    "creditScore": 536,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_291",
-    "loanAmount": 45225,
-    "profitToLoanRatio": 50,
-    "creditScore": 541,
-    "loanApproved": false
+    "loanAmount": 45350,
+    "profitToLoanRatio": 53,
+    "creditScore": 535,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_292",
-    "loanAmount": 65125,
-    "profitToLoanRatio": 66,
-    "creditScore": 434,
-    "loanApproved": false
+    "loanAmount": 45460,
+    "profitToLoanRatio": 37,
+    "creditScore": 758,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_293",
-    "loanAmount": 45325,
-    "profitToLoanRatio": 39,
-    "creditScore": 754,
+    "loanAmount": 45570,
+    "profitToLoanRatio": 36,
+    "creditScore": 736,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_294",
-    "loanAmount": 70125,
-    "profitToLoanRatio": 25,
-    "creditScore": 844,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_295",
-    "loanAmount": 45425,
-    "profitToLoanRatio": 38,
-    "creditScore": 741,
+    "loanAmount": 45680,
+    "profitToLoanRatio": 35,
+    "creditScore": 735,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_295",
+    "loanAmount": 44091,
+    "profitToLoanRatio": 37,
+    "creditScore": 708,
+    "riskofdebt": "medium",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_296",
-    "loanAmount": 75125,
-    "profitToLoanRatio": 34,
-    "creditScore": 624,
+    "loanAmount": 44081,
+    "profitToLoanRatio": 38,
+    "creditScore": 686,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_297",
-    "loanAmount": 44925,
-    "profitToLoanRatio": 34,
-    "creditScore": 704,
+    "loanAmount": 44071,
+    "profitToLoanRatio": 39,
+    "creditScore": 685,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_298",
-    "loanAmount": 32125,
-    "profitToLoanRatio": 56,
-    "creditScore": 814,
+    "loanAmount": 44061,
+    "profitToLoanRatio": 20,
+    "creditScore": 558,
+    "riskofdebt": "high",
     "loanApproved": true
   },
   {
     "fileName": "record_299",
-    "loanAmount": 44825,
-    "profitToLoanRatio": 35,
-    "creditScore": 691,
-    "loanApproved": false
+    "loanAmount": 44051,
+    "profitToLoanRatio": 29,
+    "creditScore": 536,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_300",
-    "loanAmount": 34125,
-    "profitToLoanRatio": 66,
-    "creditScore": 524,
+    "loanAmount": 44041,
+    "profitToLoanRatio": 28,
+    "creditScore": 535,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_301",
-    "loanAmount": 44725,
-    "profitToLoanRatio": 25,
-    "creditScore": 554,
+    "loanAmount": 45133,
+    "profitToLoanRatio": 52,
+    "creditScore": 559,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_302",
-    "loanAmount": 14125,
-    "profitToLoanRatio": 24,
-    "creditScore": 784,
-    "loanApproved": true
+    "loanAmount": 45243,
+    "profitToLoanRatio": 53,
+    "creditScore": 534,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_303",
-    "loanAmount": 44625,
-    "profitToLoanRatio": 24,
-    "creditScore": 541,
-    "loanApproved": false
+    "loanAmount": 45353,
+    "profitToLoanRatio": 54,
+    "creditScore": 533,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_304",
-    "loanAmount": 13125,
-    "profitToLoanRatio": 21,
-    "creditScore": 464,
-    "loanApproved": false
+    "loanAmount": 45463,
+    "profitToLoanRatio": 36,
+    "creditScore": 759,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_305",
-    "loanAmount": 45128,
-    "profitToLoanRatio": 49,
-    "creditScore": 556,
+    "loanAmount": 45573,
+    "profitToLoanRatio": 35,
+    "creditScore": 734,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_306",
-    "loanAmount": 88128,
-    "profitToLoanRatio": 70,
-    "creditScore": 829,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_307",
-    "loanAmount": 45228,
-    "profitToLoanRatio": 50,
-    "creditScore": 540,
+    "loanAmount": 45683,
+    "profitToLoanRatio": 34,
+    "creditScore": 733,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_307",
+    "loanAmount": 44095,
+    "profitToLoanRatio": 39,
+    "creditScore": 709,
+    "riskofdebt": "medium",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_308",
-    "loanAmount": 92128,
-    "profitToLoanRatio": 75,
-    "creditScore": 444,
+    "loanAmount": 44085,
+    "profitToLoanRatio": 20,
+    "creditScore": 684,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_309",
-    "loanAmount": 45328,
-    "profitToLoanRatio": 43,
-    "creditScore": 756,
+    "loanAmount": 44075,
+    "profitToLoanRatio": 20,
+    "creditScore": 683,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_310",
-    "loanAmount": 68128,
-    "profitToLoanRatio": 27,
-    "creditScore": 839,
+    "loanAmount": 44065,
+    "profitToLoanRatio": 29,
+    "creditScore": 559,
+    "riskofdebt": "high",
     "loanApproved": true
   },
   {
     "fileName": "record_311",
-    "loanAmount": 45428,
-    "profitToLoanRatio": 42,
-    "creditScore": 740,
-    "loanApproved": false
+    "loanAmount": 44055,
+    "profitToLoanRatio": 28,
+    "creditScore": 534,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_312",
-    "loanAmount": 78128,
-    "profitToLoanRatio": 37,
-    "creditScore": 664,
+    "loanAmount": 44045,
+    "profitToLoanRatio": 27,
+    "creditScore": 533,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_313",
-    "loanAmount": 44928,
-    "profitToLoanRatio": 35,
-    "creditScore": 706,
+    "loanAmount": 55129,
+    "profitToLoanRatio": 72,
+    "creditScore": 827,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_314",
-    "loanAmount": 28128,
-    "profitToLoanRatio": 60,
-    "creditScore": 794,
-    "loanApproved": true
+    "loanAmount": 62462,
+    "profitToLoanRatio": 67,
+    "creditScore": 517,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_315",
-    "loanAmount": 44828,
-    "profitToLoanRatio": 36,
-    "creditScore": 690,
-    "loanApproved": false
+    "loanAmount": 58795,
+    "profitToLoanRatio": 61,
+    "creditScore": 457,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_316",
-    "loanAmount": 26128,
-    "profitToLoanRatio": 70,
-    "creditScore": 564,
-    "loanApproved": false
+    "loanAmount": 61240,
+    "profitToLoanRatio": 21,
+    "creditScore": 847,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_317",
-    "loanAmount": 44728,
-    "profitToLoanRatio": 24,
-    "creditScore": 556,
+    "loanAmount": 82351,
+    "profitToLoanRatio": 31,
+    "creditScore": 817,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_318",
-    "loanAmount": 16128,
-    "profitToLoanRatio": 28,
-    "creditScore": 764,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_319",
-    "loanAmount": 44628,
-    "profitToLoanRatio": 23,
-    "creditScore": 540,
+    "loanAmount": 51240,
+    "profitToLoanRatio": 49,
+    "creditScore": 657,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_319",
+    "loanAmount": 38129,
+    "profitToLoanRatio": 67,
+    "creditScore": 837,
+    "riskofdebt": "low",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_320",
-    "loanAmount": 17128,
-    "profitToLoanRatio": 28,
-    "creditScore": 474,
+    "loanAmount": 38240,
+    "profitToLoanRatio": 75,
+    "creditScore": 617,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_321",
-    "loanAmount": 45131,
-    "profitToLoanRatio": 54,
-    "creditScore": 564,
+    "loanAmount": 41351,
+    "profitToLoanRatio": 55,
+    "creditScore": 557,
+    "riskofdebt": "medium",
     "loanApproved": true
   },
   {
     "fileName": "record_322",
-    "loanAmount": 100000,
-    "profitToLoanRatio": 75,
-    "creditScore": 850,
+    "loanAmount": 45462,
+    "profitToLoanRatio": 29,
+    "creditScore": 828,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_323",
-    "loanAmount": 46131,
-    "profitToLoanRatio": 56,
-    "creditScore": 544,
-    "loanApproved": false
+    "loanAmount": 21573,
+    "profitToLoanRatio": 26,
+    "creditScore": 528,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_324",
-    "loanAmount": 99131,
-    "profitToLoanRatio": 70,
-    "creditScore": 414,
+    "loanAmount": 11684,
+    "profitToLoanRatio": 28,
+    "creditScore": 468,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_325",
-    "loanAmount": 47131,
-    "profitToLoanRatio": 44,
-    "creditScore": 764,
+    "loanAmount": 45132,
+    "profitToLoanRatio": 52,
+    "creditScore": 559,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_326",
-    "loanAmount": 98131,
-    "profitToLoanRatio": 24,
-    "creditScore": 846,
-    "loanApproved": true
+    "loanAmount": 45242,
+    "profitToLoanRatio": 53,
+    "creditScore": 535,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_327",
-    "loanAmount": 48131,
-    "profitToLoanRatio": 45,
-    "creditScore": 744,
-    "loanApproved": false
+    "loanAmount": 45352,
+    "profitToLoanRatio": 54,
+    "creditScore": 534,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_328",
-    "loanAmount": 97131,
-    "profitToLoanRatio": 25,
-    "creditScore": 704,
-    "loanApproved": false
+    "loanAmount": 45462,
+    "profitToLoanRatio": 37,
+    "creditScore": 759,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_329",
-    "loanAmount": 44131,
-    "profitToLoanRatio": 34,
-    "creditScore": 714,
+    "loanAmount": 45572,
+    "profitToLoanRatio": 36,
+    "creditScore": 735,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_330",
-    "loanAmount": 10131,
-    "profitToLoanRatio": 71,
-    "creditScore": 846,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_331",
-    "loanAmount": 43131,
+    "loanAmount": 45682,
     "profitToLoanRatio": 35,
-    "creditScore": 694,
+    "creditScore": 734,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_331",
+    "loanAmount": 44092,
+    "profitToLoanRatio": 38,
+    "creditScore": 709,
+    "riskofdebt": "medium",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_332",
-    "loanAmount": 11131,
-    "profitToLoanRatio": 70,
-    "creditScore": 424,
+    "loanAmount": 44082,
+    "profitToLoanRatio": 39,
+    "creditScore": 685,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_333",
-    "loanAmount": 42131,
-    "profitToLoanRatio": 25,
-    "creditScore": 564,
+    "loanAmount": 44072,
+    "profitToLoanRatio": 20,
+    "creditScore": 684,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_334",
-    "loanAmount": 29131,
-    "profitToLoanRatio": 24,
-    "creditScore": 846,
+    "loanAmount": 44062,
+    "profitToLoanRatio": 20,
+    "creditScore": 559,
+    "riskofdebt": "high",
     "loanApproved": true
   },
   {
     "fileName": "record_335",
-    "loanAmount": 41131,
-    "profitToLoanRatio": 24,
-    "creditScore": 544,
-    "loanApproved": false
+    "loanAmount": 44052,
+    "profitToLoanRatio": 29,
+    "creditScore": 535,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_336",
-    "loanAmount": 28131,
-    "profitToLoanRatio": 25,
-    "creditScore": 414,
+    "loanAmount": 44042,
+    "profitToLoanRatio": 28,
+    "creditScore": 534,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_337",
-    "loanAmount": 45133,
-    "profitToLoanRatio": 49,
-    "creditScore": 554,
+    "loanAmount": 45135,
+    "profitToLoanRatio": 53,
+    "creditScore": 560,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_338",
-    "loanAmount": 95133,
-    "profitToLoanRatio": 74,
-    "creditScore": 814,
-    "loanApproved": true
+    "loanAmount": 45245,
+    "profitToLoanRatio": 54,
+    "creditScore": 532,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_339",
-    "loanAmount": 45233,
-    "profitToLoanRatio": 49,
-    "creditScore": 545,
-    "loanApproved": false
+    "loanAmount": 45355,
+    "profitToLoanRatio": 55,
+    "creditScore": 531,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_340",
-    "loanAmount": 98133,
-    "profitToLoanRatio": 72,
-    "creditScore": 424,
-    "loanApproved": false
+    "loanAmount": 45465,
+    "profitToLoanRatio": 36,
+    "creditScore": 760,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_341",
-    "loanAmount": 45333,
-    "profitToLoanRatio": 40,
-    "creditScore": 754,
+    "loanAmount": 45575,
+    "profitToLoanRatio": 35,
+    "creditScore": 732,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_342",
-    "loanAmount": 65133,
-    "profitToLoanRatio": 26,
-    "creditScore": 834,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_343",
-    "loanAmount": 45433,
-    "profitToLoanRatio": 40,
-    "creditScore": 745,
+    "loanAmount": 45685,
+    "profitToLoanRatio": 34,
+    "creditScore": 731,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_343",
+    "loanAmount": 44098,
+    "profitToLoanRatio": 39,
+    "creditScore": 710,
+    "riskofdebt": "medium",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_344",
-    "loanAmount": 72133,
-    "profitToLoanRatio": 37,
-    "creditScore": 654,
+    "loanAmount": 44088,
+    "profitToLoanRatio": 20,
+    "creditScore": 683,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_345",
-    "loanAmount": 44873,
-    "profitToLoanRatio": 34,
-    "creditScore": 704,
+    "loanAmount": 44078,
+    "profitToLoanRatio": 21,
+    "creditScore": 682,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_346",
-    "loanAmount": 18133,
-    "profitToLoanRatio": 59,
-    "creditScore": 784,
+    "loanAmount": 44068,
+    "profitToLoanRatio": 28,
+    "creditScore": 560,
+    "riskofdebt": "high",
     "loanApproved": true
   },
   {
     "fileName": "record_347",
-    "loanAmount": 44872,
-    "profitToLoanRatio": 34,
-    "creditScore": 695,
-    "loanApproved": false
+    "loanAmount": 44058,
+    "profitToLoanRatio": 27,
+    "creditScore": 532,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_348",
-    "loanAmount": 22133,
-    "profitToLoanRatio": 69,
-    "creditScore": 554,
+    "loanAmount": 44048,
+    "profitToLoanRatio": 26,
+    "creditScore": 531,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_349",
-    "loanAmount": 44871,
-    "profitToLoanRatio": 25,
-    "creditScore": 554,
+    "loanAmount": 55130,
+    "profitToLoanRatio": 73,
+    "creditScore": 828,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_350",
-    "loanAmount": 12133,
-    "profitToLoanRatio": 25,
-    "creditScore": 754,
-    "loanApproved": true
+    "loanAmount": 62463,
+    "profitToLoanRatio": 66,
+    "creditScore": 518,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_351",
-    "loanAmount": 44870,
-    "profitToLoanRatio": 25,
-    "creditScore": 545,
-    "loanApproved": false
+    "loanAmount": 58796,
+    "profitToLoanRatio": 62,
+    "creditScore": 458,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_352",
-    "loanAmount": 11133,
-    "profitToLoanRatio": 27,
-    "creditScore": 484,
-    "loanApproved": false
+    "loanAmount": 61241,
+    "profitToLoanRatio": 20,
+    "creditScore": 848,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_353",
-    "loanAmount": 45135,
-    "profitToLoanRatio": 50,
-    "creditScore": 555,
+    "loanAmount": 82352,
+    "profitToLoanRatio": 30,
+    "creditScore": 818,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_354",
-    "loanAmount": 60135,
-    "profitToLoanRatio": 65,
-    "creditScore": 605,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_355",
-    "loanAmount": 45235,
-    "profitToLoanRatio": 51,
-    "creditScore": 540,
+    "loanAmount": 51241,
+    "profitToLoanRatio": 50,
+    "creditScore": 658,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_355",
+    "loanAmount": 38130,
+    "profitToLoanRatio": 66,
+    "creditScore": 838,
+    "riskofdebt": "low",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_356",
-    "loanAmount": 65135,
-    "profitToLoanRatio": 67,
-    "creditScore": 435,
+    "loanAmount": 38241,
+    "profitToLoanRatio": 76,
+    "creditScore": 618,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_357",
-    "loanAmount": 45335,
-    "profitToLoanRatio": 38,
-    "creditScore": 755,
+    "loanAmount": 41352,
+    "profitToLoanRatio": 56,
+    "creditScore": 558,
+    "riskofdebt": "medium",
     "loanApproved": true
   },
   {
     "fileName": "record_358",
-    "loanAmount": 70135,
-    "profitToLoanRatio": 24,
-    "creditScore": 845,
+    "loanAmount": 45463,
+    "profitToLoanRatio": 28,
+    "creditScore": 829,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_359",
-    "loanAmount": 45435,
-    "profitToLoanRatio": 37,
-    "creditScore": 740,
-    "loanApproved": false
+    "loanAmount": 21574,
+    "profitToLoanRatio": 25,
+    "creditScore": 529,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_360",
-    "loanAmount": 75135,
-    "profitToLoanRatio": 33,
-    "creditScore": 625,
+    "loanAmount": 11685,
+    "profitToLoanRatio": 29,
+    "creditScore": 469,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_361",
-    "loanAmount": 44935,
-    "profitToLoanRatio": 35,
-    "creditScore": 705,
+    "loanAmount": 45133,
+    "profitToLoanRatio": 53,
+    "creditScore": 560,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_362",
-    "loanAmount": 32135,
-    "profitToLoanRatio": 57,
-    "creditScore": 815,
-    "loanApproved": true
+    "loanAmount": 45243,
+    "profitToLoanRatio": 54,
+    "creditScore": 533,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_363",
-    "loanAmount": 44835,
-    "profitToLoanRatio": 36,
-    "creditScore": 690,
-    "loanApproved": false
+    "loanAmount": 45353,
+    "profitToLoanRatio": 55,
+    "creditScore": 532,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_364",
-    "loanAmount": 34135,
-    "profitToLoanRatio": 67,
-    "creditScore": 525,
-    "loanApproved": false
+    "loanAmount": 45463,
+    "profitToLoanRatio": 36,
+    "creditScore": 760,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_365",
-    "loanAmount": 44735,
-    "profitToLoanRatio": 24,
-    "creditScore": 555,
+    "loanAmount": 45573,
+    "profitToLoanRatio": 35,
+    "creditScore": 733,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_366",
-    "loanAmount": 14135,
-    "profitToLoanRatio": 25,
-    "creditScore": 785,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_367",
-    "loanAmount": 44635,
-    "profitToLoanRatio": 23,
-    "creditScore": 540,
+    "loanAmount": 45683,
+    "profitToLoanRatio": 34,
+    "creditScore": 732,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_367",
+    "loanAmount": 44093,
+    "profitToLoanRatio": 39,
+    "creditScore": 710,
+    "riskofdebt": "medium",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_368",
-    "loanAmount": 13135,
+    "loanAmount": 44083,
     "profitToLoanRatio": 20,
-    "creditScore": 465,
+    "creditScore": 683,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_369",
-    "loanAmount": 45138,
-    "profitToLoanRatio": 50,
-    "creditScore": 557,
+    "loanAmount": 44073,
+    "profitToLoanRatio": 21,
+    "creditScore": 682,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_370",
-    "loanAmount": 88138,
-    "profitToLoanRatio": 71,
-    "creditScore": 830,
+    "loanAmount": 44063,
+    "profitToLoanRatio": 28,
+    "creditScore": 560,
+    "riskofdebt": "high",
     "loanApproved": true
   },
   {
     "fileName": "record_371",
-    "loanAmount": 45238,
-    "profitToLoanRatio": 51,
-    "creditScore": 539,
-    "loanApproved": false
+    "loanAmount": 44053,
+    "profitToLoanRatio": 27,
+    "creditScore": 533,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_372",
-    "loanAmount": 92138,
-    "profitToLoanRatio": 75,
-    "creditScore": 445,
+    "loanAmount": 44043,
+    "profitToLoanRatio": 26,
+    "creditScore": 532,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_373",
-    "loanAmount": 45338,
-    "profitToLoanRatio": 43,
-    "creditScore": 757,
+    "loanAmount": 45136,
+    "profitToLoanRatio": 54,
+    "creditScore": 561,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_374",
-    "loanAmount": 68138,
-    "profitToLoanRatio": 28,
-    "creditScore": 840,
-    "loanApproved": true
+    "loanAmount": 45246,
+    "profitToLoanRatio": 55,
+    "creditScore": 531,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_375",
-    "loanAmount": 45438,
-    "profitToLoanRatio": 42,
-    "creditScore": 739,
-    "loanApproved": false
+    "loanAmount": 45356,
+    "profitToLoanRatio": 56,
+    "creditScore": 530,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_376",
-    "loanAmount": 78138,
-    "profitToLoanRatio": 38,
-    "creditScore": 665,
-    "loanApproved": false
+    "loanAmount": 45466,
+    "profitToLoanRatio": 35,
+    "creditScore": 761,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_377",
-    "loanAmount": 44938,
-    "profitToLoanRatio": 36,
-    "creditScore": 707,
+    "loanAmount": 45576,
+    "profitToLoanRatio": 34,
+    "creditScore": 731,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_378",
-    "loanAmount": 28138,
-    "profitToLoanRatio": 61,
-    "creditScore": 795,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_379",
-    "loanAmount": 44838,
-    "profitToLoanRatio": 37,
-    "creditScore": 689,
+    "loanAmount": 45686,
+    "profitToLoanRatio": 33,
+    "creditScore": 730,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_379",
+    "loanAmount": 44096,
+    "profitToLoanRatio": 20,
+    "creditScore": 711,
+    "riskofdebt": "medium",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_380",
-    "loanAmount": 26138,
-    "profitToLoanRatio": 71,
-    "creditScore": 565,
+    "loanAmount": 44086,
+    "profitToLoanRatio": 21,
+    "creditScore": 682,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_381",
-    "loanAmount": 44738,
-    "profitToLoanRatio": 23,
-    "creditScore": 557,
+    "loanAmount": 44076,
+    "profitToLoanRatio": 22,
+    "creditScore": 681,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_382",
-    "loanAmount": 16138,
-    "profitToLoanRatio": 29,
-    "creditScore": 765,
+    "loanAmount": 44066,
+    "profitToLoanRatio": 27,
+    "creditScore": 561,
+    "riskofdebt": "high",
     "loanApproved": true
   },
   {
     "fileName": "record_383",
-    "loanAmount": 44638,
-    "profitToLoanRatio": 22,
-    "creditScore": 539,
-    "loanApproved": false
+    "loanAmount": 44056,
+    "profitToLoanRatio": 26,
+    "creditScore": 531,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_384",
-    "loanAmount": 17138,
-    "profitToLoanRatio": 27,
-    "creditScore": 475,
+    "loanAmount": 44046,
+    "profitToLoanRatio": 25,
+    "creditScore": 530,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_385",
-    "loanAmount": 45141,
-    "profitToLoanRatio": 55,
-    "creditScore": 565,
+    "loanAmount": 55131,
+    "profitToLoanRatio": 74,
+    "creditScore": 829,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_386",
-    "loanAmount": 100000,
-    "profitToLoanRatio": 75,
-    "creditScore": 850,
-    "loanApproved": true
+    "loanAmount": 62464,
+    "profitToLoanRatio": 65,
+    "creditScore": 519,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_387",
-    "loanAmount": 46141,
-    "profitToLoanRatio": 57,
-    "creditScore": 545,
-    "loanApproved": false
+    "loanAmount": 58797,
+    "profitToLoanRatio": 63,
+    "creditScore": 459,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_388",
-    "loanAmount": 99141,
-    "profitToLoanRatio": 69,
-    "creditScore": 415,
-    "loanApproved": false
+    "loanAmount": 61242,
+    "profitToLoanRatio": 21,
+    "creditScore": 849,
+    "riskofdebt": "high",
+    "loanApproved": true
   },
   {
     "fileName": "record_389",
-    "loanAmount": 47141,
-    "profitToLoanRatio": 45,
-    "creditScore": 765,
+    "loanAmount": 82353,
+    "profitToLoanRatio": 29,
+    "creditScore": 819,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_390",
-    "loanAmount": 98141,
-    "profitToLoanRatio": 25,
-    "creditScore": 845,
-    "loanApproved": true
-  },
-  {
-    "fileName": "record_391",
-    "loanAmount": 48141,
-    "profitToLoanRatio": 46,
-    "creditScore": 745,
+    "loanAmount": 51242,
+    "profitToLoanRatio": 51,
+    "creditScore": 659,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
+    "fileName": "record_391",
+    "loanAmount": 38131,
+    "profitToLoanRatio": 65,
+    "creditScore": 839,
+    "riskofdebt": "low",
+    "loanApproved": true
+  },
+  {
     "fileName": "record_392",
-    "loanAmount": 97141,
-    "profitToLoanRatio": 26,
-    "creditScore": 705,
+    "loanAmount": 38242,
+    "profitToLoanRatio": 77,
+    "creditScore": 619,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_393",
-    "loanAmount": 44141,
-    "profitToLoanRatio": 35,
-    "creditScore": 715,
+    "loanAmount": 41353,
+    "profitToLoanRatio": 57,
+    "creditScore": 559,
+    "riskofdebt": "medium",
     "loanApproved": true
   },
   {
     "fileName": "record_394",
-    "loanAmount": 10141,
-    "profitToLoanRatio": 70,
-    "creditScore": 845,
+    "loanAmount": 45464,
+    "profitToLoanRatio": 27,
+    "creditScore": 830,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_395",
-    "loanAmount": 43141,
-    "profitToLoanRatio": 36,
-    "creditScore": 695,
-    "loanApproved": false
+    "loanAmount": 21575,
+    "profitToLoanRatio": 24,
+    "creditScore": 530,
+    "riskofdebt": "low",
+    "loanApproved": true
   },
   {
     "fileName": "record_396",
-    "loanAmount": 11141,
-    "profitToLoanRatio": 69,
-    "creditScore": 425,
+    "loanAmount": 11686,
+    "profitToLoanRatio": 28,
+    "creditScore": 470,
+    "riskofdebt": "high",
     "loanApproved": false
   },
   {
     "fileName": "record_397",
-    "loanAmount": 42141,
-    "profitToLoanRatio": 24,
-    "creditScore": 565,
+    "loanAmount": 45134,
+    "profitToLoanRatio": 54,
+    "creditScore": 561,
+    "riskofdebt": "low",
     "loanApproved": true
   },
   {
     "fileName": "record_398",
-    "loanAmount": 29141,
-    "profitToLoanRatio": 25,
-    "creditScore": 845,
-    "loanApproved": true
+    "loanAmount": 45244,
+    "profitToLoanRatio": 55,
+    "creditScore": 532,
+    "riskofdebt": "high",
+    "loanApproved": false
   },
   {
     "fileName": "record_399",
-    "loanAmount": 41141,
-    "profitToLoanRatio": 23,
-    "creditScore": 545,
-    "loanApproved": false
+    "loanAmount": 45354,
+    "profitToLoanRatio": 56,
+    "creditScore": 531,
+    "riskofdebt": "medium",
+    "loanApproved": true
   },
   {
     "fileName": "record_400",
-    "loanAmount": 28141,
-    "profitToLoanRatio": 26,
-    "creditScore": 415,
-    "loanApproved": false
+    "loanAmount": 45464,
+    "profitToLoanRatio": 35,
+    "creditScore": 761,
+    "riskofdebt": "high",
+    "loanApproved": true
   }
 ]

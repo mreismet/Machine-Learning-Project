@@ -1,15 +1,10 @@
 import pandas as pd
 import json
-import sklearn as sk
-import numpy as np
-import os
-import psycopg2
 from matplotlib import pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 from sklearn import metrics
 from sqlalchemy import create_engine
-from sklearn.preprocessing import OneHotEncoder
 
 
 class my_class(object):
@@ -41,7 +36,7 @@ class my_class(object):
     
     
     filename = 'file.xlsx'
-    dftest = pd.read_excel(filename, engine="openpyxl")
+    dftest = pd.read_excel(filename, engine="openpyxl") #creates the test without data premade to train the model
         
 
     dftest['encoded_riskofdebt'] = dftest['riskofdebt'].map(Maping)
@@ -49,10 +44,10 @@ class my_class(object):
     targetvaluestest = dftest['loanApproved'] 
     
     
-    prediction = model.predict(testvalues)
+    prediction = model.predict(testvalues) 
     
 
-    print("accuracy", metrics.accuracy_score(prediction,targetvaluestest))
+    print("accuracy", metrics.accuracy_score(prediction,targetvaluestest)) ## prints accuracy of the data given
     
 
     conn_string = 'postgresql://postgres:password@localhost/postgres'

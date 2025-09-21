@@ -7,7 +7,7 @@ class my_class(object):
         data = json.load(peopledata)
         df = pd.DataFrame(data)
 
-    from sk import decision_tree
+    from sk. import decision_tree
     print(df)
 
 

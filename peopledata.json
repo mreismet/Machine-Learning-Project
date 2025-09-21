@@ -1,272 +1,870 @@
 [
   {
-    "name": "Aiden Chen",
-    "age": 35,
-    "email": "aiden.c@example.com",
-    "income": 92000,
-    "risk_of_medical_complications": "Low",
-    "jobholder": true,
-    "disposable_income": 27600
+    "name": "Luke Skywalker",
+    "loan_amount": 80000,
+    "profit_to_loan_ratio": 50,
+    "credit_score": 600,
+    "loan_approved": true
   },
   {
-    "name": "Brooklyn Patel",
-    "age": 26,
-    "email": "b.patel@mail.net",
-    "income": 68000,
-    "risk_of_medical_complications": "Very Low",
-    "jobholder": true,
-    "disposable_income": 20400
+    "name": "Leia Organa",
+    "loan_amount": 90000,
+    "profit_to_loan_ratio": 48,
+    "credit_score": 540,
+    "loan_approved": false
   },
   {
-    "name": "Carter Evans",
-    "age": 52,
-    "email": "carter.evans@example.org",
-    "income": 115000,
-    "risk_of_medical_complications": "Medium",
-    "jobholder": true,
-    "disposable_income": 34500
+    "name": "Han Solo",
+    "loan_amount": 70000,
+    "profit_to_loan_ratio": 40,
+    "credit_score": 760,
+    "loan_approved": true
   },
   {
-    "name": "Riley Kim",
-    "age": 22,
-    "email": "riley.kim@example.com",
-    "income": 45000,
-    "risk_of_medical_complications": "Very Low",
-    "jobholder": true,
-    "disposable_income": 11250
+    "name": "Darth Vader",
+    "loan_amount": 60000,
+    "profit_to_loan_ratio": 35,
+    "credit_score": 740,
+    "loan_approved": false
   },
   {
-    "name": "Zoe Barnes",
-    "age": 67,
-    "email": "zoe.b@mail.net",
-    "income": 55000,
-    "risk_of_medical_complications": "High",
-    "jobholder": false,
-    "disposable_income": 13750
+    "name": "Obi-Wan Kenobi",
+    "loan_amount": 30000,
+    "profit_to_loan_ratio": 35,
+    "credit_score": 710,
+    "loan_approved": true
   },
   {
-    "name": "Leo Rivera",
-    "age": 41,
-    "email": "leo.rivera@example.org",
-    "income": 102000,
-    "risk_of_medical_complications": "Low",
-    "jobholder": true,
-    "disposable_income": 25500
+    "name": "Yoda",
+    "loan_amount": 40000,
+    "profit_to_loan_ratio": 32,
+    "credit_score": 690,
+    "loan_approved": false
   },
   {
-    "name": "Hannah Gomez",
-    "age": 31,
-    "email": "hannah.g@example.com",
-    "income": 81000,
-    "risk_of_medical_complications": "Low",
-    "jobholder": true,
-    "disposable_income": 28350
+    "name": "Chewbacca",
+    "loan_amount": 35000,
+    "profit_to_loan_ratio": 25,
+    "credit_score": 560,
+    "loan_approved": true
   },
   {
-    "name": "Jack Morris",
-    "age": 74,
-    "email": "j.morris@mail.net",
-    "income": 62000,
-    "risk_of_medical_complications": "High",
-    "jobholder": false,
-    "disposable_income": 18600
+    "name": "Emperor Palpatine",
+    "loan_amount": 25000,
+    "profit_to_loan_ratio": 20,
+    "credit_score": 540,
+    "loan_approved": false
   },
   {
-    "name": "Layla Washington",
-    "age": 19,
-    "email": "layla.w@example.org",
-    "income": 21000,
-    "risk_of_medical_complications": "Very Low",
-    "jobholder": false,
-    "disposable_income": 5250
+    "name": "Lando Calrissian",
+    "loan_amount": 75000,
+    "profit_to_loan_ratio": 55,
+    "credit_score": 580,
+    "loan_approved": true
   },
   {
-    "name": "Owen Henderson",
-    "age": 49,
-    "email": "owen.h@example.com",
-    "income": 130000,
-    "risk_of_medical_complications": "Medium",
-    "jobholder": true,
-    "disposable_income": 45500
+    "name": "Boba Fett",
+    "loan_amount": 65000,
+    "profit_to_loan_ratio": 60,
+    "credit_score": 520,
+    "loan_approved": false
   },
   {
-    "name": "Nora Coleman",
-    "age": 28,
-    "email": "n.coleman@mail.net",
-    "income": 75000,
-    "risk_of_medical_complications": "Low",
-    "jobholder": true,
-    "disposable_income": 22500
+    "name": "R2-D2",
+    "loan_amount": 95000,
+    "profit_to_loan_ratio": 42,
+    "credit_score": 755,
+    "loan_approved": true
   },
   {
-    "name": "Caleb Jenkins",
-    "age": 58,
-    "email": "caleb.j@example.org",
-    "income": 95000,
-    "risk_of_medical_complications": "Medium",
-    "jobholder": true,
-    "disposable_income": 23750
+    "name": "C-3PO",
+    "loan_amount": 85000,
+    "profit_to_loan_ratio": 38,
+    "credit_score": 730,
+    "loan_approved": false
   },
   {
-    "name": "Scarlett Perry",
-    "age": 33,
-    "email": "scarlett.p@example.com",
-    "income": 88000,
-    "risk_of_medical_complications": "Low",
-    "jobholder": true,
-    "disposable_income": 30800
+    "name": "Padmé Amidala",
+    "loan_amount": 38000,
+    "profit_to_loan_ratio": 38,
+    "credit_score": 750,
+    "loan_approved": true
   },
   {
-    "name": "Grayson Long",
-    "age": 24,
-    "email": "grayson.l@mail.net",
-    "income": 58000,
-    "risk_of_medical_complications": "Very Low",
-    "jobholder": true,
-    "disposable_income": 14500
+    "name": "Anakin Skywalker",
+    "loan_amount": 32000,
+    "profit_to_loan_ratio": 33,
+    "credit_score": 680,
+    "loan_approved": false
   },
   {
-    "name": "Stella Hughes",
-    "age": 63,
-    "email": "stella.h@example.org",
-    "income": 70000,
-    "risk_of_medical_complications": "High",
-    "jobholder": false,
-    "disposable_income": 21000
+    "name": "Qui-Gon Jinn",
+    "loan_amount": 28000,
+    "profit_to_loan_ratio": 28,
+    "credit_score": 570,
+    "loan_approved": true
   },
   {
-    "name": "Julian Foster",
-    "age": 45,
-    "email": "julian.f@example.com",
-    "income": 145000,
-    "risk_of_medical_complications": "Medium",
-    "jobholder": true,
-    "disposable_income": 50750
+    "name": "Mace Windu",
+    "loan_amount": 38000,
+    "profit_to_loan_ratio": 22,
+    "credit_score": 530,
+    "loan_approved": false
   },
   {
-    "name": "Maya Simmons",
-    "age": 29,
-    "email": "maya.s@mail.net",
-    "income": 72000,
-    "risk_of_medical_complications": "Low",
-    "jobholder": true,
-    "disposable_income": 25200
+    "name": "Count Dooku",
+    "loan_amount": 50000,
+    "profit_to_loan_ratio": 52,
+    "credit_score": 620,
+    "loan_approved": true
   },
   {
-    "name": "Levi Powell",
-    "age": 55,
-    "email": "levi.p@example.org",
-    "income": 110000,
-    "risk_of_medical_complications": "Medium",
-    "jobholder": true,
-    "disposable_income": 33000
+    "name": "Darth Maul",
+    "loan_amount": 55000,
+    "profit_to_loan_ratio": 47,
+    "credit_score": 510,
+    "loan_approved": false
   },
   {
-    "name": "Paisley Butler",
-    "age": 20,
-    "email": "paisley.b@example.com",
-    "income": 32000,
-    "risk_of_medical_complications": "Very Low",
-    "jobholder": true,
-    "disposable_income": 8000
+    "name": "Jabba the Hutt",
+    "loan_amount": 92000,
+    "profit_to_loan_ratio": 44,
+    "credit_score": 800,
+    "loan_approved": true
   },
   {
-    "name": "Ezra Russell",
-    "age": 38,
-    "email": "ezra.r@mail.net",
-    "income": 98000,
-    "risk_of_medical_complications": "Low",
-    "jobholder": true,
-    "disposable_income": 34300
+    "name": "Greedo",
+    "loan_amount": 96000,
+    "profit_to_loan_ratio": 39,
+    "credit_score": 720,
+    "loan_approved": false
   },
   {
-    "name": "Aurora Griffin",
-    "age": 61,
-    "email": "aurora.g@example.org",
-    "income": 80000,
-    "risk_of_medical_complications": "Medium",
-    "jobholder": false,
-    "disposable_income": 20000
+    "name": "Wedge Antilles",
+    "loan_amount": 44000,
+    "profit_to_loan_ratio": 40,
+    "credit_score": 780,
+    "loan_approved": true
   },
   {
-    "name": "Miles Diaz",
-    "age": 43,
-    "email": "miles.d@example.com",
-    "income": 125000,
-    "risk_of_medical_complications": "Low",
-    "jobholder": true,
-    "disposable_income": 43750
+    "name": "Grand Moff Tarkin",
+    "loan_amount": 34000,
+    "profit_to_loan_ratio": 31,
+    "credit_score": 650,
+    "loan_approved": false
   },
   {
-    "name": "Willow West",
-    "age": 27,
-    "email": "willow.w@mail.net",
-    "income": 65000,
-    "risk_of_medical_complications": "Very Low",
-    "jobholder": true,
-    "disposable_income": 19500
+    "name": "Admiral Ackbar",
+    "loan_amount": 22000,
+    "profit_to_loan_ratio": 29,
+    "credit_score": 590,
+    "loan_approved": true
   },
   {
-    "name": "Lincoln Fisher",
-    "age": 70,
-    "email": "lincoln.f@example.org",
-    "income": 58000,
-    "risk_of_medical_complications": "High",
-    "jobholder": false,
-    "disposable_income": 14500
+    "name": "Wicket W. Warrick",
+    "loan_amount": 36000,
+    "profit_to_loan_ratio": 18,
+    "credit_score": 515,
+    "loan_approved": false
   },
   {
-    "name": "Penelope Hayes",
-    "age": 36,
-    "email": "penelope.h@example.com",
-    "income": 90000,
-    "risk_of_medical_complications": "Low",
-    "jobholder": true,
-    "disposable_income": 31500
+    "name": "Mon Mothma",
+    "loan_amount": 52000,
+    "profit_to_loan_ratio": 49,
+    "credit_score": 650,
+    "loan_approved": true
   },
   {
-    "name": "Wyatt Cruz",
-    "age": 51,
-    "email": "wyatt.c@mail.net",
-    "income": 118000,
-    "risk_of_medical_complications": "Medium",
-    "jobholder": true,
-    "disposable_income": 35400
+    "name": "Jango Fett",
+    "loan_amount": 58000,
+    "profit_to_loan_ratio": 51,
+    "credit_score": 545,
+    "loan_approved": false
   },
   {
-    "name": "Genesis Gibson",
-    "age": 23,
-    "email": "genesis.g@example.org",
-    "income": 53000,
-    "risk_of_medical_complications": "Very Low",
-    "jobholder": true,
-    "disposable_income": 13250
+    "name": "Ahsoka Tano",
+    "loan_amount": 94000,
+    "profit_to_loan_ratio": 43,
+    "credit_score": 790,
+    "loan_approved": true
   },
   {
-    "name": "Josiah Ray",
-    "age": 65,
-    "email": "josiah.ray@example.com",
-    "income": 75000,
-    "risk_of_medical_complications": "High",
-    "jobholder": false,
-    "disposable_income": 22500
+    "name": "Captain Rex",
+    "loan_amount": 98000,
+    "profit_to_loan_ratio": 41,
+    "credit_score": 700,
+    "loan_approved": false
   },
   {
-    "name": "Clara Boyd",
-    "age": 30,
-    "email": "clara.b@mail.net",
-    "income": 82000,
-    "risk_of_medical_complications": "Low",
-    "jobholder": true,
-    "disposable_income": 24600
+    "name": "Asajj Ventress",
+    "loan_amount": 43000,
+    "profit_to_loan_ratio": 37,
+    "credit_score": 820,
+    "loan_approved": true
   },
   {
-    "name": "Mateo Jordan",
-    "age": 47,
-    "email": "mateo.j@example.org",
-    "income": 135000,
-    "risk_of_medical_complications": "Medium",
-    "jobholder": true,
-    "disposable_income": 47250
+    "name": "Cad Bane",
+    "loan_amount": 33000,
+    "profit_to_loan_ratio": 34,
+    "credit_score": 670,
+    "loan_approved": false
+  },
+  {
+    "name": "Plo Koon",
+    "loan_amount": 24000,
+    "profit_to_loan_ratio": 27,
+    "credit_score": 610,
+    "loan_approved": true
+  },
+  {
+    "name": "Kit Fisto",
+    "loan_amount": 39000,
+    "profit_to_loan_ratio": 24,
+    "credit_score": 525,
+    "loan_approved": false
+  },
+  {
+    "name": "Aayla Secura",
+    "loan_amount": 49000,
+    "profit_to_loan_ratio": 46,
+    "credit_score": 560,
+    "loan_approved": true
+  },
+  {
+    "name": "Shaak Ti",
+    "loan_amount": 51000,
+    "profit_to_loan_ratio": 53,
+    "credit_score": 530,
+    "loan_approved": false
+  },
+  {
+    "name": "Ki-Adi-Mundi",
+    "loan_amount": 88000,
+    "profit_to_loan_ratio": 33,
+    "credit_score": 830,
+    "loan_approved": true
+  },
+  {
+    "name": "Luminara Unduli",
+    "loan_amount": 84000,
+    "profit_to_loan_ratio": 36,
+    "credit_score": 710,
+    "loan_approved": false
+  },
+  {
+    "name": "Barriss Offee",
+    "loan_amount": 41000,
+    "profit_to_loan_ratio": 36,
+    "credit_score": 790,
+    "loan_approved": true
+  },
+  {
+    "name": "General Grievous",
+    "loan_amount": 31000,
+    "profit_to_loan_ratio": 31,
+    "credit_score": 660,
+    "loan_approved": false
+  },
+  {
+    "name": "Nute Gunray",
+    "loan_amount": 26000,
+    "profit_to_loan_ratio": 26,
+    "credit_score": 630,
+    "loan_approved": true
+  },
+  {
+    "name": "Wat Tambor",
+    "loan_amount": 37000,
+    "profit_to_loan_ratio": 21,
+    "credit_score": 505,
+    "loan_approved": false
+  },
+  {
+    "name": "Poggle the Lesser",
+    "loan_amount": 47000,
+    "profit_to_loan_ratio": 50,
+    "credit_score": 570,
+    "loan_approved": true
+  },
+  {
+    "name": "Shmi Skywalker",
+    "loan_amount": 54000,
+    "profit_to_loan_ratio": 48,
+    "credit_score": 535,
+    "loan_approved": false
+  },
+  {
+    "name": "Cliegg Lars",
+    "loan_amount": 81000,
+    "profit_to_loan_ratio": 41,
+    "credit_score": 810,
+    "loan_approved": true
+  },
+  {
+    "name": "Owen Lars",
+    "loan_amount": 86000,
+    "profit_to_loan_ratio": 37,
+    "credit_score": 690,
+    "loan_approved": false
+  },
+  {
+    "name": "Beru Lars",
+    "loan_amount": 40500,
+    "profit_to_loan_ratio": 39,
+    "credit_score": 760,
+    "loan_approved": true
+  },
+  {
+    "name": "Bail Organa",
+    "loan_amount": 30500,
+    "profit_to_loan_ratio": 32,
+    "credit_score": 640,
+    "loan_approved": false
+  },
+  {
+    "name": "Captain Antilles",
+    "loan_amount": 27000,
+    "profit_to_loan_ratio": 25,
+    "credit_score": 640,
+    "loan_approved": true
+  },
+  {
+    "name": "Dexter Jettster",
+    "loan_amount": 35500,
+    "profit_to_loan_ratio": 23,
+    "credit_score": 545,
+    "loan_approved": false
+  },
+  {
+    "name": "Sebulba",
+    "loan_amount": 48000,
+    "profit_to_loan_ratio": 54,
+    "credit_score": 590,
+    "loan_approved": true
+  },
+  {
+    "name": "Watto",
+    "loan_amount": 53000,
+    "profit_to_loan_ratio": 50,
+    "credit_score": 500,
+    "loan_approved": false
+  },
+  {
+    "name": "Bib Fortuna",
+    "loan_amount": 83000,
+    "profit_to_loan_ratio": 36,
+    "credit_score": 840,
+    "loan_approved": true
+  },
+  {
+    "name": "Salacious B. Crumb",
+    "loan_amount": 89000,
+    "profit_to_loan_ratio": 34,
+    "credit_score": 680,
+    "loan_approved": false
+  },
+  {
+    "name": "Max Rebo",
+    "loan_amount": 44500,
+    "profit_to_loan_ratio": 41,
+    "credit_score": 770,
+    "loan_approved": true
+  },
+  {
+    "name": "Sy Snootles",
+    "loan_amount": 34500,
+    "profit_to_loan_ratio": 34,
+    "credit_score": 630,
+    "loan_approved": false
+  },
+  {
+    "name": "Droopy McCool",
+    "loan_amount": 21000,
+    "profit_to_loan_ratio": 28,
+    "credit_score": 650,
+    "loan_approved": true
+  },
+  {
+    "name": "IG-88",
+    "loan_amount": 39500,
+    "profit_to_loan_ratio": 20,
+    "credit_score": 500,
+    "loan_approved": false
+  },
+  {
+    "name": "Dengar",
+    "loan_amount": 46000,
+    "profit_to_loan_ratio": 47,
+    "credit_score": 600,
+    "loan_approved": true
+  },
+  {
+    "name": "Bossk",
+    "loan_amount": 56000,
+    "profit_to_loan_ratio": 52,
+    "credit_score": 520,
+    "loan_approved": false
+  },
+  {
+    "name": "Zuckuss",
+    "loan_amount": 80500,
+    "profit_to_loan_ratio": 40,
+    "credit_score": 850,
+    "loan_approved": true
+  },
+  {
+    "name": "4-LOM",
+    "loan_amount": 87500,
+    "profit_to_loan_ratio": 35,
+    "credit_score": 745,
+    "loan_approved": false
+  },
+  {
+    "name": "K-2SO",
+    "loan_amount": 42500,
+    "profit_to_loan_ratio": 38,
+    "credit_score": 800,
+    "loan_approved": true
+  },
+  {
+    "name": "Cassian Andor",
+    "loan_amount": 32500,
+    "profit_to_loan_ratio": 31,
+    "credit_score": 620,
+    "loan_approved": false
+  },
+  {
+    "name": "Jyn Erso",
+    "loan_amount": 23000,
+    "profit_to_loan_ratio": 27,
+    "credit_score": 670,
+    "loan_approved": true
+  },
+  {
+    "name": "Bodhi Rook",
+    "loan_amount": 38500,
+    "profit_to_loan_ratio": 24,
+    "credit_score": 535,
+    "loan_approved": false
+  },
+  {
+    "name": "Chirrut Îmwe",
+    "loan_amount": 45500,
+    "profit_to_loan_ratio": 51,
+    "credit_score": 610,
+    "loan_approved": true
+  },
+  {
+    "name": "Baze Malbus",
+    "loan_amount": 57000,
+    "profit_to_loan_ratio": 49,
+    "credit_score": 540,
+    "loan_approved": false
+  },
+  {
+    "name": "Orson Krennic",
+    "loan_amount": 82500,
+    "profit_to_loan_ratio": 43,
+    "credit_score": 770,
+    "loan_approved": true
+  },
+  {
+    "name": "Galen Erso",
+    "loan_amount": 88500,
+    "profit_to_loan_ratio": 40,
+    "credit_score": 735,
+    "loan_approved": false
+  },
+  {
+    "name": "Lyra Erso",
+    "loan_amount": 41500,
+    "profit_to_loan_ratio": 37,
+    "credit_score": 730,
+    "loan_approved": true
+  },
+  {
+    "name": "Saw Gerrera",
+    "loan_amount": 31500,
+    "profit_to_loan_ratio": 33,
+    "credit_score": 610,
+    "loan_approved": false
+  },
+  {
+    "name": "General Dodonna",
+    "loan_amount": 20500,
+    "profit_to_loan_ratio": 26,
+    "credit_score": 680,
+    "loan_approved": true
+  },
+  {
+    "name": "General Rieekan",
+    "loan_amount": 36500,
+    "profit_to_loan_ratio": 19,
+    "credit_score": 510,
+    "loan_approved": false
+  },
+  {
+    "name": "Admiral Piett",
+    "loan_amount": 46500,
+    "profit_to_loan_ratio": 53,
+    "credit_score": 630,
+    "loan_approved": true
+  },
+  {
+    "name": "Admiral Ozzel",
+    "loan_amount": 59000,
+    "profit_to_loan_ratio": 55,
+    "credit_score": 525,
+    "loan_approved": false
+  },
+  {
+    "name": "Captain Needa",
+    "loan_amount": 84500,
+    "profit_to_loan_ratio": 42,
+    "credit_score": 780,
+    "loan_approved": true
+  },
+  {
+    "name": "Firmus Piett",
+    "loan_amount": 89500,
+    "profit_to_loan_ratio": 36,
+    "credit_score": 715,
+    "loan_approved": false
+  },
+  {
+    "name": "Zam Wesell",
+    "loan_amount": 42800,
+    "profit_to_loan_ratio": 35,
+    "credit_score": 740,
+    "loan_approved": true
+  },
+  {
+    "name": "Aurra Sing",
+    "loan_amount": 32800,
+    "profit_to_loan_ratio": 32,
+    "credit_score": 600,
+    "loan_approved": false
+  },
+  {
+    "name": "Hondo Ohnaka",
+    "loan_amount": 21500,
+    "profit_to_loan_ratio": 25,
+    "credit_score": 690,
+    "loan_approved": true
+  },
+  {
+    "name": "Savage Opress",
+    "loan_amount": 39900,
+    "profit_to_loan_ratio": 22,
+    "credit_score": 520,
+    "loan_approved": false
+  },
+  {
+    "name": "Mother Talzin",
+    "loan_amount": 47500,
+    "profit_to_loan_ratio": 49,
+    "credit_score": 640,
+    "loan_approved": true
+  },
+  {
+    "name": "Bo-Katan Kryze",
+    "loan_amount": 50500,
+    "profit_to_loan_ratio": 46,
+    "credit_score": 515,
+    "loan_approved": false
+  },
+  {
+    "name": "Pre Vizsla",
+    "loan_amount": 81500,
+    "profit_to_loan_ratio": 32,
+    "credit_score": 765,
+    "loan_approved": true
+  },
+  {
+    "name": "Satine Kryze",
+    "loan_amount": 86500,
+    "profit_to_loan_ratio": 31,
+    "credit_score": 705,
+    "loan_approved": false
+  },
+  {
+    "name": "Fenn Rau",
+    "loan_amount": 43500,
+    "profit_to_loan_ratio": 34,
+    "credit_score": 720,
+    "loan_approved": true
+  },
+  {
+    "name": "Gar Saxon",
+    "loan_amount": 33500,
+    "profit_to_loan_ratio": 33,
+    "credit_score": 635,
+    "loan_approved": false
+  },
+  {
+    "name": "The Armorer",
+    "loan_amount": 22500,
+    "profit_to_loan_ratio": 24,
+    "credit_score": 700,
+    "loan_approved": true
+  },
+  {
+    "name": "Din Djarin",
+    "loan_amount": 38800,
+    "profit_to_loan_ratio": 23,
+    "credit_score": 540,
+    "loan_approved": false
+  },
+  {
+    "name": "Grogu",
+    "loan_amount": 48500,
+    "profit_to_loan_ratio": 50,
+    "credit_score": 660,
+    "loan_approved": true
+  },
+  {
+    "name": "Greef Karga",
+    "loan_amount": 51500,
+    "profit_to_loan_ratio": 54,
+    "credit_score": 538,
+    "loan_approved": false
+  },
+  {
+    "name": "Cara Dune",
+    "loan_amount": 83500,
+    "profit_to_loan_ratio": 30,
+    "credit_score": 795,
+    "loan_approved": true
+  },
+  {
+    "name": "Moff Gideon",
+    "loan_amount": 88800,
+    "profit_to_loan_ratio": 28,
+    "credit_score": 748,
+    "loan_approved": false
+  },
+  {
+    "name": "Fennec Shand",
+    "loan_amount": 44200,
+    "profit_to_loan_ratio": 33,
+    "credit_score": 715,
+    "loan_approved": true
+  },
+  {
+    "name": "Kuiil",
+    "loan_amount": 34200,
+    "profit_to_loan_ratio": 32,
+    "credit_score": 645,
+    "loan_approved": false
+  },
+  {
+    "name": "IG-11",
+    "loan_amount": 24500,
+    "profit_to_loan_ratio": 23,
+    "credit_score": 710,
+    "loan_approved": true
+  },
+  {
+    "name": "Peli Motto",
+    "loan_amount": 39200,
+    "profit_to_loan_ratio": 21,
+    "credit_score": 532,
+    "loan_approved": false
+  },
+  {
+    "name": "Cobb Vanth",
+    "loan_amount": 49500,
+    "profit_to_loan_ratio": 48,
+    "credit_score": 670,
+    "loan_approved": true
+  },
+  {
+    "name": "The Client",
+    "loan_amount": 52500,
+    "profit_to_loan_ratio": 51,
+    "credit_score": 505,
+    "loan_approved": false
+  },
+  {
+    "name": "Dr. Pershing",
+    "loan_amount": 84200,
+    "profit_to_loan_ratio": 29,
+    "credit_score": 755,
+    "loan_approved": true
+  },
+  {
+    "name": "Rey",
+    "loan_amount": 89200,
+    "profit_to_loan_ratio": 27,
+    "credit_score": 738,
+    "loan_approved": false
+  },
+  {
+    "name": "Finn",
+    "loan_amount": 42200,
+    "profit_to_loan_ratio": 32,
+    "credit_score": 735,
+    "loan_approved": true
+  },
+  {
+    "name": "Poe Dameron",
+    "loan_amount": 32200,
+    "profit_to_loan_ratio": 34,
+    "credit_score": 655,
+    "loan_approved": false
+  },
+  {
+    "name": "Kylo Ren",
+    "loan_amount": 23500,
+    "profit_to_loan_ratio": 22,
+    "credit_score": 720,
+    "loan_approved": true
+  },
+  {
+    "name": "BB-8",
+    "loan_amount": 37500,
+    "profit_to_loan_ratio": 20,
+    "credit_score": 518,
+    "loan_approved": false
+  },
+  {
+    "name": "General Hux",
+    "loan_amount": 47200,
+    "profit_to_loan_ratio": 47,
+    "credit_score": 680,
+    "loan_approved": true
+  },
+  {
+    "name": "Captain Phasma",
+    "loan_amount": 53500,
+    "profit_to_loan_ratio": 53,
+    "credit_score": 542,
+    "loan_approved": false
+  },
+  {
+    "name": "Supreme Leader Snoke",
+    "loan_amount": 81200,
+    "profit_to_loan_ratio": 26,
+    "credit_score": 785,
+    "loan_approved": true
+  },
+  {
+    "name": "Rose Tico",
+    "loan_amount": 87200,
+    "profit_to_loan_ratio": 25,
+    "credit_score": 742,
+    "loan_approved": false
+  },
+  {
+    "name": "Maz Kanata",
+    "loan_amount": 41200,
+    "profit_to_loan_ratio": 31,
+    "credit_score": 725,
+    "loan_approved": true
+  },
+  {
+    "name": "Lor San Tekka",
+    "loan_amount": 31200,
+    "profit_to_loan_ratio": 34,
+    "credit_score": 675,
+    "loan_approved": false
+  },
+  {
+    "name": "Unkar Plutt",
+    "loan_amount": 22200,
+    "profit_to_loan_ratio": 21,
+    "credit_score": 730,
+    "loan_approved": true
+  },
+  {
+    "name": "Teedo",
+    "loan_amount": 36200,
+    "profit_to_loan_ratio": 18,
+    "credit_score": 528,
+    "loan_approved": false
+  },
+  {
+    "name": "Bala-Tik",
+    "loan_amount": 46200,
+    "profit_to_loan_ratio": 46,
+    "credit_score": 690,
+    "loan_approved": true
+  },
+  {
+    "name": "Tasu Leech",
+    "loan_amount": 54500,
+    "profit_to_loan_ratio": 50,
+    "credit_score": 508,
+    "loan_approved": false
+  },
+  {
+    "name": "Vice Admiral Holdo",
+    "loan_amount": 80200,
+    "profit_to_loan_ratio": 24,
+    "credit_score": 790,
+    "loan_approved": true
+  },
+  {
+    "name": "DJ",
+    "loan_amount": 86200,
+    "profit_to_loan_ratio": 23,
+    "credit_score": 741,
+    "loan_approved": false
+  },
+  {
+    "name": "Zorii Bliss",
+    "loan_amount": 40800,
+    "profit_to_loan_ratio": 30,
+    "credit_score": 740,
+    "loan_approved": true
+  },
+  {
+    "name": "Jannah",
+    "loan_amount": 30800,
+    "profit_to_loan_ratio": 35,
+    "credit_score": 685,
+    "loan_approved": false
+  },
+  {
+    "name": "Beaumont Kin",
+    "loan_amount": 21800,
+    "profit_to_loan_ratio": 20,
+    "credit_score": 740,
+    "loan_approved": true
+  },
+  {
+    "name": "Allegiant General Pryde",
+    "loan_amount": 39100,
+    "profit_to_loan_ratio": 17,
+    "credit_score": 531,
+    "loan_approved": false
+  },
+  {
+    "name": "Ochi of Bestoon",
+    "loan_amount": 49200,
+    "profit_to_loan_ratio": 45,
+    "credit_score": 700,
+    "loan_approved": true
+  },
+  {
+    "name": "D-O",
+    "loan_amount": 55500,
+    "profit_to_loan_ratio": 52,
+    "credit_score": 512,
+    "loan_approved": false
+  },
+  {
+    "name": "Babu Frik",
+    "loan_amount": 82200,
+    "profit_to_loan_ratio": 22,
+    "credit_score": 775,
+    "loan_approved": true
+  },
+  {
+    "name": "General Leia Organa",
+    "loan_amount": 88200,
+    "profit_to_loan_ratio": 21,
+    "credit_score": 740,
+    "loan_approved": false
   }
 ]

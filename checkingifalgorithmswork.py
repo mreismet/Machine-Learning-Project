@@ -40,10 +40,9 @@ class my_class(object):
     print("accuracy", metrics.accuracy_score(predictions,targetvalue_test))
     
     
-
-    with open('testingdata.json') as testdata:
-        datatest = json.load(testdata)
-        dftest = pd.DataFrame(datatest)
+    filename = 'file.xlsx'
+    dftest = pd.read_excel(filename, engine="openpyxl")
+        
 
     dftest['encoded_riskofdebt'] = dftest['riskofdebt'].map(Maping)
     testvalues = dftest[['loanAmount','profitToLoanRatio','creditScore','encoded_riskofdebt']]

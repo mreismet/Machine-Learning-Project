@@ -1,15 +1,10 @@
 import pandas as pd
 import json
-import sklearn as sk
-import numpy as np
-import os
-import psycopg2
+
 from matplotlib import pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
-from sklearn import metrics
 from sqlalchemy import create_engine
-from sklearn.preprocessing import OneHotEncoder
 
 
 
@@ -36,15 +31,15 @@ class my_class(object):
     
     file = input("Type 0 if you are working with a excel data file and 1 if you are working with a json file")
 
-    if(file == 0):
-        filename = input("\nType the name of the file and add a .json at the end ")
+    if(file == "1"):
+        filename = input("\nType the name of the file and add a .json at the end\n")
     
-        with open('testingdata.json') as testdata:
-            datatest = json.load(testdata)
+        with open(filename) as testdata:
+            datatest = json.load(testdata) # opens the file and proceeds to load it via a json library
             dftest = pd.DataFrame(datatest)
 
-        dftest['encoded_riskofdebt'] = dftest['riskofdebt'].map(Mapping)
-        testvalues = dftest[['loanAmount','profitToLoanRatio','creditScore','encoded_riskofdebt']]
+        dftest['encoded_riskofdebt'] = dftest['riskofdebt'].map(Mapping) #encodes the riskofdebt into 0 meaning low risk 1 meaning medium risk and 2 meaning high risk
+        testvalues = dftest[['loanAmount','profitToLoanRatio','creditScore','encoded_riskofdebt']] # obtains all testing values so that it can predict the future value
         targetvaluestest = dftest['loanApproved'] 
     
     
@@ -59,11 +54,12 @@ class my_class(object):
 
         dftest.to_sql('datatest', db,if_exists='replace',index = False)
         print("File added to the postgressql database")
-    elif(file == 1):
-        filename = input("\nType the name of the file and add a .xlxs at the end")
+    elif(file == "0"):
+        filename = input("\nType the name of the file and add a .xlxs at the end\n")
 
-        with open('testingdata.json') as testdata:
-            dftest = pd.read_excel(testdata)
+        dftest = pd.read_excel(filename, engine="openpyxl")
+        print(dftest)
+        
         
         dftest['encoded_riskofdebt'] = dftest['riskofdebt'].map(Mapping)
         testvalues = dftest[['loanAmount','profitToLoanRatio','creditScore','encoded_riskofdebt']]

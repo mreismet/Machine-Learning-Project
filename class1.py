@@ -10,18 +10,21 @@ from sklearn import tree
 
 
 class my_class(object):
-    with open('peopledata.json') as peopledata:
+    with open('trainingdata.json') as peopledata:
         data = json.load(peopledata)
         df = pd.DataFrame(data)
 
+    valuesconsidered = df[['loanAmount','profitToLoanRatio','creditScore']]
 
-    valuesconsidered = df[['loan_amount','profit_to_loan_ratio','credit_score']]
+    print(df)
 
-    targetvalue = df[['loan_approved']]
+    targetvalue = df[['loanApproved']]
+
+    
 
     valuesconsidered_train, valuesconsidered_test, targetvalue_train, targetvalue_test = train_test_split(valuesconsidered,targetvalue, test_size=0.2,random_state=42)
 
-    model = DecisionTreeClassifier(max_depth= 3, random_state=42)
+    model = DecisionTreeClassifier(max_depth= 10, random_state=42, min_samples_leaf= 12)
 
     model.fit(valuesconsidered_train,targetvalue_train)
 
@@ -34,8 +37,24 @@ class my_class(object):
     
     print("accuracy", metrics.accuracy_score(predictions,targetvalue_test))
 
+
+    with open('testingdata.json') as testdata:
+        datatest = json.load(testdata)
+        dftest = pd.DataFrame(datatest)
+
+
+    testvalues = dftest[['loanAmount','profitToLoanRatio','creditScore']]
+
+    targetvaluetest = dftest[['loanApproved']]
+    
+
+    prediction = model.predict(testvalues)
+
+    print("accuracy", metrics.accuracy_score(prediction,targetvaluetest))
+
     tree.plot_tree(model, proportion=True)
     plt.show()
+    
 
 
 

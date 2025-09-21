@@ -1,0 +1,2802 @@
+[
+  {
+    "fileName": "record_1",
+    "loanAmount": 75000,
+    "profitToLoanRatio": 50,
+    "creditScore": 600,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_2",
+    "loanAmount": 80000,
+    "profitToLoanRatio": 60,
+    "creditScore": 549,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_3",
+    "loanAmount": 60000,
+    "profitToLoanRatio": 40,
+    "creditScore": 800,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_4",
+    "loanAmount": 90000,
+    "profitToLoanRatio": 30,
+    "creditScore": 749,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_5",
+    "loanAmount": 40000,
+    "profitToLoanRatio": 35,
+    "creditScore": 750,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_6",
+    "loanAmount": 35000,
+    "profitToLoanRatio": 40,
+    "creditScore": 699,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_7",
+    "loanAmount": 30000,
+    "profitToLoanRatio": 25,
+    "creditScore": 550,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_8",
+    "loanAmount": 25000,
+    "profitToLoanRatio": 28,
+    "creditScore": 500,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_9",
+    "loanAmount": 45000,
+    "profitToLoanRatio": 45,
+    "creditScore": 550,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_10",
+    "loanAmount": 55000,
+    "profitToLoanRatio": 75,
+    "creditScore": 400,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_11",
+    "loanAmount": 46000,
+    "profitToLoanRatio": 20,
+    "creditScore": 750,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_12",
+    "loanAmount": 95000,
+    "profitToLoanRatio": 44,
+    "creditScore": 450,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_13",
+    "loanAmount": 15000,
+    "profitToLoanRatio": 30,
+    "creditScore": 700,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_14",
+    "loanAmount": 20000,
+    "profitToLoanRatio": 70,
+    "creditScore": 600,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_15",
+    "loanAmount": 10000,
+    "profitToLoanRatio": 29,
+    "creditScore": 850,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_16",
+    "loanAmount": 44999,
+    "profitToLoanRatio": 22,
+    "creditScore": 549,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_17",
+    "loanAmount": 68138,
+    "profitToLoanRatio": 62,
+    "creditScore": 728,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_18",
+    "loanAmount": 82054,
+    "profitToLoanRatio": 73,
+    "creditScore": 412,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_19",
+    "loanAmount": 71490,
+    "profitToLoanRatio": 33,
+    "creditScore": 811,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_20",
+    "loanAmount": 96248,
+    "profitToLoanRatio": 41,
+    "creditScore": 687,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_21",
+    "loanAmount": 36131,
+    "profitToLoanRatio": 55,
+    "creditScore": 794,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_22",
+    "loanAmount": 28416,
+    "profitToLoanRatio": 68,
+    "creditScore": 589,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_23",
+    "loanAmount": 22501,
+    "profitToLoanRatio": 26,
+    "creditScore": 677,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_24",
+    "loanAmount": 18992,
+    "profitToLoanRatio": 24,
+    "creditScore": 483,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_25",
+    "loanAmount": 51234,
+    "profitToLoanRatio": 51,
+    "creditScore": 551,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_26",
+    "loanAmount": 52345,
+    "profitToLoanRatio": 52,
+    "creditScore": 548,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_27",
+    "loanAmount": 53456,
+    "profitToLoanRatio": 31,
+    "creditScore": 751,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_28",
+    "loanAmount": 54567,
+    "profitToLoanRatio": 32,
+    "creditScore": 748,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_29",
+    "loanAmount": 31234,
+    "profitToLoanRatio": 31,
+    "creditScore": 701,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_30",
+    "loanAmount": 32345,
+    "profitToLoanRatio": 32,
+    "creditScore": 698,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_31",
+    "loanAmount": 33456,
+    "profitToLoanRatio": 21,
+    "creditScore": 551,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_32",
+    "loanAmount": 34567,
+    "profitToLoanRatio": 23,
+    "creditScore": 548,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_33",
+    "loanAmount": 91833,
+    "profitToLoanRatio": 48,
+    "creditScore": 815,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_34",
+    "loanAmount": 87399,
+    "profitToLoanRatio": 58,
+    "creditScore": 501,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_35",
+    "loanAmount": 81928,
+    "profitToLoanRatio": 38,
+    "creditScore": 774,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_36",
+    "loanAmount": 99101,
+    "profitToLoanRatio": 28,
+    "creditScore": 702,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_37",
+    "loanAmount": 41225,
+    "profitToLoanRatio": 48,
+    "creditScore": 718,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_38",
+    "loanAmount": 26884,
+    "profitToLoanRatio": 53,
+    "creditScore": 681,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_39",
+    "loanAmount": 21094,
+    "profitToLoanRatio": 28,
+    "creditScore": 822,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_40",
+    "loanAmount": 11786,
+    "profitToLoanRatio": 27,
+    "creditScore": 408,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_41",
+    "loanAmount": 78901,
+    "profitToLoanRatio": 68,
+    "creditScore": 650,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_42",
+    "loanAmount": 79012,
+    "profitToLoanRatio": 69,
+    "creditScore": 547,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_43",
+    "loanAmount": 80123,
+    "profitToLoanRatio": 38,
+    "creditScore": 752,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_44",
+    "loanAmount": 81234,
+    "profitToLoanRatio": 39,
+    "creditScore": 747,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_45",
+    "loanAmount": 40123,
+    "profitToLoanRatio": 38,
+    "creditScore": 702,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_46",
+    "loanAmount": 41234,
+    "profitToLoanRatio": 39,
+    "creditScore": 697,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_47",
+    "loanAmount": 42345,
+    "profitToLoanRatio": 28,
+    "creditScore": 552,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_48",
+    "loanAmount": 43456,
+    "profitToLoanRatio": 27,
+    "creditScore": 547,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_49",
+    "loanAmount": 58291,
+    "profitToLoanRatio": 54,
+    "creditScore": 599,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_50",
+    "loanAmount": 55210,
+    "profitToLoanRatio": 46,
+    "creditScore": 422,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_51",
+    "loanAmount": 61284,
+    "profitToLoanRatio": 42,
+    "creditScore": 788,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_52",
+    "loanAmount": 50111,
+    "profitToLoanRatio": 36,
+    "creditScore": 614,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_53",
+    "loanAmount": 28140,
+    "profitToLoanRatio": 41,
+    "creditScore": 725,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_54",
+    "loanAmount": 30219,
+    "profitToLoanRatio": 49,
+    "creditScore": 521,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_55",
+    "loanAmount": 13411,
+    "profitToLoanRatio": 24,
+    "creditScore": 643,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_56",
+    "loanAmount": 14218,
+    "profitToLoanRatio": 25,
+    "creditScore": 504,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_57",
+    "loanAmount": 100000,
+    "profitToLoanRatio": 75,
+    "creditScore": 850,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_58",
+    "loanAmount": 99999,
+    "profitToLoanRatio": 74,
+    "creditScore": 401,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_59",
+    "loanAmount": 99998,
+    "profitToLoanRatio": 44,
+    "creditScore": 849,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_60",
+    "loanAmount": 99997,
+    "profitToLoanRatio": 43,
+    "creditScore": 402,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_61",
+    "loanAmount": 44998,
+    "profitToLoanRatio": 75,
+    "creditScore": 850,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_62",
+    "loanAmount": 44997,
+    "profitToLoanRatio": 74,
+    "creditScore": 403,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_63",
+    "loanAmount": 44996,
+    "profitToLoanRatio": 29,
+    "creditScore": 849,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_64",
+    "loanAmount": 44995,
+    "profitToLoanRatio": 28,
+    "creditScore": 404,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_65",
+    "loanAmount": 83451,
+    "profitToLoanRatio": 56,
+    "creditScore": 731,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_66",
+    "loanAmount": 76321,
+    "profitToLoanRatio": 66,
+    "creditScore": 531,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_67",
+    "loanAmount": 65231,
+    "profitToLoanRatio": 35,
+    "creditScore": 831,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_68",
+    "loanAmount": 85211,
+    "profitToLoanRatio": 36,
+    "creditScore": 731,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_69",
+    "loanAmount": 35121,
+    "profitToLoanRatio": 45,
+    "creditScore": 731,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_70",
+    "loanAmount": 25121,
+    "profitToLoanRatio": 55,
+    "creditScore": 631,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_71",
+    "loanAmount": 23121,
+    "profitToLoanRatio": 25,
+    "creditScore": 631,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_72",
+    "loanAmount": 13121,
+    "profitToLoanRatio": 26,
+    "creditScore": 531,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_73",
+    "loanAmount": 45001,
+    "profitToLoanRatio": 45,
+    "creditScore": 551,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_74",
+    "loanAmount": 45002,
+    "profitToLoanRatio": 46,
+    "creditScore": 546,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_75",
+    "loanAmount": 45003,
+    "profitToLoanRatio": 44,
+    "creditScore": 751,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_76",
+    "loanAmount": 45004,
+    "profitToLoanRatio": 43,
+    "creditScore": 746,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_77",
+    "loanAmount": 10001,
+    "profitToLoanRatio": 30,
+    "creditScore": 701,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_78",
+    "loanAmount": 10002,
+    "profitToLoanRatio": 31,
+    "creditScore": 696,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_79",
+    "loanAmount": 10003,
+    "profitToLoanRatio": 29,
+    "creditScore": 551,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_80",
+    "loanAmount": 10004,
+    "profitToLoanRatio": 28,
+    "creditScore": 546,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_81",
+    "loanAmount": 71832,
+    "profitToLoanRatio": 49,
+    "creditScore": 816,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_82",
+    "loanAmount": 77398,
+    "profitToLoanRatio": 59,
+    "creditScore": 502,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_83",
+    "loanAmount": 71927,
+    "profitToLoanRatio": 39,
+    "creditScore": 775,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_84",
+    "loanAmount": 89102,
+    "profitToLoanRatio": 29,
+    "creditScore": 703,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_85",
+    "loanAmount": 40226,
+    "profitToLoanRatio": 49,
+    "creditScore": 719,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_86",
+    "loanAmount": 25885,
+    "profitToLoanRatio": 54,
+    "creditScore": 682,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_87",
+    "loanAmount": 20095,
+    "profitToLoanRatio": 29,
+    "creditScore": 823,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_88",
+    "loanAmount": 10787,
+    "profitToLoanRatio": 26,
+    "creditScore": 409,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_89",
+    "loanAmount": 68902,
+    "profitToLoanRatio": 69,
+    "creditScore": 651,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_90",
+    "loanAmount": 69013,
+    "profitToLoanRatio": 70,
+    "creditScore": 546,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_91",
+    "loanAmount": 70124,
+    "profitToLoanRatio": 39,
+    "creditScore": 753,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_92",
+    "loanAmount": 71235,
+    "profitToLoanRatio": 40,
+    "creditScore": 746,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_93",
+    "loanAmount": 39124,
+    "profitToLoanRatio": 40,
+    "creditScore": 703,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_94",
+    "loanAmount": 38235,
+    "profitToLoanRatio": 41,
+    "creditScore": 696,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_95",
+    "loanAmount": 37346,
+    "profitToLoanRatio": 27,
+    "creditScore": 553,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_96",
+    "loanAmount": 36457,
+    "profitToLoanRatio": 26,
+    "creditScore": 546,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_97",
+    "loanAmount": 48292,
+    "profitToLoanRatio": 55,
+    "creditScore": 600,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_98",
+    "loanAmount": 45211,
+    "profitToLoanRatio": 47,
+    "creditScore": 423,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_99",
+    "loanAmount": 51285,
+    "profitToLoanRatio": 43,
+    "creditScore": 789,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_100",
+    "loanAmount": 49112,
+    "profitToLoanRatio": 37,
+    "creditScore": 615,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_101",
+    "loanAmount": 18141,
+    "profitToLoanRatio": 42,
+    "creditScore": 726,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_102",
+    "loanAmount": 10220,
+    "profitToLoanRatio": 50,
+    "creditScore": 522,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_103",
+    "loanAmount": 12412,
+    "profitToLoanRatio": 23,
+    "creditScore": 644,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_104",
+    "loanAmount": 13219,
+    "profitToLoanRatio": 24,
+    "creditScore": 505,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_105",
+    "loanAmount": 93452,
+    "profitToLoanRatio": 57,
+    "creditScore": 732,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_106",
+    "loanAmount": 86322,
+    "profitToLoanRatio": 67,
+    "creditScore": 532,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_107",
+    "loanAmount": 75232,
+    "profitToLoanRatio": 36,
+    "creditScore": 832,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_108",
+    "loanAmount": 95212,
+    "profitToLoanRatio": 37,
+    "creditScore": 732,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_109",
+    "loanAmount": 44122,
+    "profitToLoanRatio": 46,
+    "creditScore": 732,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_110",
+    "loanAmount": 34122,
+    "profitToLoanRatio": 56,
+    "creditScore": 632,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_111",
+    "loanAmount": 32122,
+    "profitToLoanRatio": 26,
+    "creditScore": 632,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_112",
+    "loanAmount": 22122,
+    "profitToLoanRatio": 27,
+    "creditScore": 532,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_113",
+    "loanAmount": 55811,
+    "profitToLoanRatio": 45,
+    "creditScore": 555,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_114",
+    "loanAmount": 56922,
+    "profitToLoanRatio": 47,
+    "creditScore": 545,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_115",
+    "loanAmount": 57133,
+    "profitToLoanRatio": 42,
+    "creditScore": 755,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_116",
+    "loanAmount": 58244,
+    "profitToLoanRatio": 41,
+    "creditScore": 745,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_117",
+    "loanAmount": 11311,
+    "profitToLoanRatio": 33,
+    "creditScore": 705,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_118",
+    "loanAmount": 12422,
+    "profitToLoanRatio": 34,
+    "creditScore": 695,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_119",
+    "loanAmount": 13533,
+    "profitToLoanRatio": 22,
+    "creditScore": 555,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_120",
+    "loanAmount": 14644,
+    "profitToLoanRatio": 21,
+    "creditScore": 545,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_121",
+    "loanAmount": 62833,
+    "profitToLoanRatio": 50,
+    "creditScore": 817,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_122",
+    "loanAmount": 67397,
+    "profitToLoanRatio": 60,
+    "creditScore": 503,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_123",
+    "loanAmount": 61926,
+    "profitToLoanRatio": 40,
+    "creditScore": 776,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_124",
+    "loanAmount": 79103,
+    "profitToLoanRatio": 30,
+    "creditScore": 704,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_125",
+    "loanAmount": 39227,
+    "profitToLoanRatio": 50,
+    "creditScore": 720,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_126",
+    "loanAmount": 24886,
+    "profitToLoanRatio": 55,
+    "creditScore": 683,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_127",
+    "loanAmount": 19096,
+    "profitToLoanRatio": 21,
+    "creditScore": 824,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_128",
+    "loanAmount": 10088,
+    "profitToLoanRatio": 20,
+    "creditScore": 410,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_129",
+    "loanAmount": 58903,
+    "profitToLoanRatio": 70,
+    "creditScore": 652,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_130",
+    "loanAmount": 59014,
+    "profitToLoanRatio": 71,
+    "creditScore": 544,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_131",
+    "loanAmount": 60125,
+    "profitToLoanRatio": 41,
+    "creditScore": 754,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_132",
+    "loanAmount": 61236,
+    "profitToLoanRatio": 42,
+    "creditScore": 744,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_133",
+    "loanAmount": 29125,
+    "profitToLoanRatio": 42,
+    "creditScore": 704,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_134",
+    "loanAmount": 28236,
+    "profitToLoanRatio": 43,
+    "creditScore": 694,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_135",
+    "loanAmount": 27347,
+    "profitToLoanRatio": 26,
+    "creditScore": 554,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_136",
+    "loanAmount": 26458,
+    "profitToLoanRatio": 25,
+    "creditScore": 544,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_137",
+    "loanAmount": 47293,
+    "profitToLoanRatio": 56,
+    "creditScore": 601,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_138",
+    "loanAmount": 44212,
+    "profitToLoanRatio": 48,
+    "creditScore": 424,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_139",
+    "loanAmount": 50286,
+    "profitToLoanRatio": 44,
+    "creditScore": 790,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_140",
+    "loanAmount": 48113,
+    "profitToLoanRatio": 38,
+    "creditScore": 616,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_141",
+    "loanAmount": 17142,
+    "profitToLoanRatio": 43,
+    "creditScore": 727,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_142",
+    "loanAmount": 10121,
+    "profitToLoanRatio": 51,
+    "creditScore": 523,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_143",
+    "loanAmount": 11413,
+    "profitToLoanRatio": 22,
+    "creditScore": 645,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_144",
+    "loanAmount": 12220,
+    "profitToLoanRatio": 23,
+    "creditScore": 506,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_145",
+    "loanAmount": 83453,
+    "profitToLoanRatio": 58,
+    "creditScore": 733,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_146",
+    "loanAmount": 76323,
+    "profitToLoanRatio": 68,
+    "creditScore": 533,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_147",
+    "loanAmount": 65233,
+    "profitToLoanRatio": 37,
+    "creditScore": 833,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_148",
+    "loanAmount": 85213,
+    "profitToLoanRatio": 38,
+    "creditScore": 733,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_149",
+    "loanAmount": 35123,
+    "profitToLoanRatio": 46,
+    "creditScore": 733,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_150",
+    "loanAmount": 25123,
+    "profitToLoanRatio": 57,
+    "creditScore": 633,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_151",
+    "loanAmount": 23123,
+    "profitToLoanRatio": 24,
+    "creditScore": 633,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_152",
+    "loanAmount": 13123,
+    "profitToLoanRatio": 25,
+    "creditScore": 533,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_153",
+    "loanAmount": 46001,
+    "profitToLoanRatio": 46,
+    "creditScore": 552,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_154",
+    "loanAmount": 46002,
+    "profitToLoanRatio": 47,
+    "creditScore": 543,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_155",
+    "loanAmount": 46003,
+    "profitToLoanRatio": 43,
+    "creditScore": 752,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_156",
+    "loanAmount": 46004,
+    "profitToLoanRatio": 42,
+    "creditScore": 743,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_157",
+    "loanAmount": 11001,
+    "profitToLoanRatio": 31,
+    "creditScore": 702,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_158",
+    "loanAmount": 11002,
+    "profitToLoanRatio": 32,
+    "creditScore": 693,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_159",
+    "loanAmount": 11003,
+    "profitToLoanRatio": 28,
+    "creditScore": 552,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_160",
+    "loanAmount": 11004,
+    "profitToLoanRatio": 27,
+    "creditScore": 543,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_161",
+    "loanAmount": 61834,
+    "profitToLoanRatio": 51,
+    "creditScore": 818,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_162",
+    "loanAmount": 67396,
+    "profitToLoanRatio": 61,
+    "creditScore": 504,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_163",
+    "loanAmount": 60925,
+    "profitToLoanRatio": 41,
+    "creditScore": 777,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_164",
+    "loanAmount": 78104,
+    "profitToLoanRatio": 31,
+    "creditScore": 705,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_165",
+    "loanAmount": 38228,
+    "profitToLoanRatio": 51,
+    "creditScore": 721,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_166",
+    "loanAmount": 23887,
+    "profitToLoanRatio": 56,
+    "creditScore": 684,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_167",
+    "loanAmount": 18097,
+    "profitToLoanRatio": 20,
+    "creditScore": 825,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_168",
+    "loanAmount": 10079,
+    "profitToLoanRatio": 21,
+    "creditScore": 411,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_169",
+    "loanAmount": 57904,
+    "profitToLoanRatio": 71,
+    "creditScore": 653,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_170",
+    "loanAmount": 58015,
+    "profitToLoanRatio": 72,
+    "creditScore": 542,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_171",
+    "loanAmount": 59126,
+    "profitToLoanRatio": 40,
+    "creditScore": 755,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_172",
+    "loanAmount": 60237,
+    "profitToLoanRatio": 39,
+    "creditScore": 742,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_173",
+    "loanAmount": 28126,
+    "profitToLoanRatio": 41,
+    "creditScore": 705,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_174",
+    "loanAmount": 27237,
+    "profitToLoanRatio": 42,
+    "creditScore": 692,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_175",
+    "loanAmount": 26348,
+    "profitToLoanRatio": 25,
+    "creditScore": 555,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_176",
+    "loanAmount": 25459,
+    "profitToLoanRatio": 24,
+    "creditScore": 542,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_177",
+    "loanAmount": 46294,
+    "profitToLoanRatio": 57,
+    "creditScore": 602,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_178",
+    "loanAmount": 43213,
+    "profitToLoanRatio": 49,
+    "creditScore": 425,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_179",
+    "loanAmount": 49287,
+    "profitToLoanRatio": 42,
+    "creditScore": 791,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_180",
+    "loanAmount": 47114,
+    "profitToLoanRatio": 39,
+    "creditScore": 617,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_181",
+    "loanAmount": 16143,
+    "profitToLoanRatio": 44,
+    "creditScore": 728,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_182",
+    "loanAmount": 10022,
+    "profitToLoanRatio": 52,
+    "creditScore": 524,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_183",
+    "loanAmount": 11314,
+    "profitToLoanRatio": 21,
+    "creditScore": 646,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_184",
+    "loanAmount": 12121,
+    "profitToLoanRatio": 22,
+    "creditScore": 507,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_185",
+    "loanAmount": 84454,
+    "profitToLoanRatio": 59,
+    "creditScore": 734,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_186",
+    "loanAmount": 77324,
+    "profitToLoanRatio": 69,
+    "creditScore": 534,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_187",
+    "loanAmount": 66234,
+    "profitToLoanRatio": 38,
+    "creditScore": 834,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_188",
+    "loanAmount": 86214,
+    "profitToLoanRatio": 39,
+    "creditScore": 734,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_189",
+    "loanAmount": 36124,
+    "profitToLoanRatio": 47,
+    "creditScore": 734,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_190",
+    "loanAmount": 26124,
+    "profitToLoanRatio": 58,
+    "creditScore": 634,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_191",
+    "loanAmount": 24124,
+    "profitToLoanRatio": 23,
+    "creditScore": 634,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_192",
+    "loanAmount": 14124,
+    "profitToLoanRatio": 24,
+    "creditScore": 534,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_193",
+    "loanAmount": 47001,
+    "profitToLoanRatio": 47,
+    "creditScore": 553,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_194",
+    "loanAmount": 47002,
+    "profitToLoanRatio": 48,
+    "creditScore": 541,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_195",
+    "loanAmount": 47003,
+    "profitToLoanRatio": 41,
+    "creditScore": 753,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_196",
+    "loanAmount": 47004,
+    "profitToLoanRatio": 40,
+    "creditScore": 741,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_197",
+    "loanAmount": 12001,
+    "profitToLoanRatio": 32,
+    "creditScore": 703,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_198",
+    "loanAmount": 12002,
+    "profitToLoanRatio": 33,
+    "creditScore": 691,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_199",
+    "loanAmount": 12003,
+    "profitToLoanRatio": 27,
+    "creditScore": 553,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_200",
+    "loanAmount": 12004,
+    "profitToLoanRatio": 26,
+    "creditScore": 541,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_201",
+    "loanAmount": 75001,
+    "profitToLoanRatio": 51,
+    "creditScore": 601,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_202",
+    "loanAmount": 80001,
+    "profitToLoanRatio": 61,
+    "creditScore": 548,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_203",
+    "loanAmount": 60001,
+    "profitToLoanRatio": 41,
+    "creditScore": 801,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_204",
+    "loanAmount": 90001,
+    "profitToLoanRatio": 31,
+    "creditScore": 748,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_205",
+    "loanAmount": 40001,
+    "profitToLoanRatio": 36,
+    "creditScore": 751,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_206",
+    "loanAmount": 35001,
+    "profitToLoanRatio": 41,
+    "creditScore": 698,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_207",
+    "loanAmount": 30001,
+    "profitToLoanRatio": 26,
+    "creditScore": 551,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_208",
+    "loanAmount": 25001,
+    "profitToLoanRatio": 27,
+    "creditScore": 501,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_209",
+    "loanAmount": 45001,
+    "profitToLoanRatio": 46,
+    "creditScore": 551,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_210",
+    "loanAmount": 55001,
+    "profitToLoanRatio": 74,
+    "creditScore": 401,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_211",
+    "loanAmount": 46001,
+    "profitToLoanRatio": 21,
+    "creditScore": 751,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_212",
+    "loanAmount": 95001,
+    "profitToLoanRatio": 43,
+    "creditScore": 451,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_213",
+    "loanAmount": 15001,
+    "profitToLoanRatio": 31,
+    "creditScore": 701,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_214",
+    "loanAmount": 20001,
+    "profitToLoanRatio": 71,
+    "creditScore": 601,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_215",
+    "loanAmount": 10001,
+    "profitToLoanRatio": 28,
+    "creditScore": 849,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_216",
+    "loanAmount": 44998,
+    "profitToLoanRatio": 23,
+    "creditScore": 548,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_217",
+    "loanAmount": 68139,
+    "profitToLoanRatio": 63,
+    "creditScore": 729,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_218",
+    "loanAmount": 82055,
+    "profitToLoanRatio": 72,
+    "creditScore": 413,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_219",
+    "loanAmount": 71491,
+    "profitToLoanRatio": 34,
+    "creditScore": 812,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_220",
+    "loanAmount": 96249,
+    "profitToLoanRatio": 42,
+    "creditScore": 688,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_221",
+    "loanAmount": 36132,
+    "profitToLoanRatio": 56,
+    "creditScore": 795,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_222",
+    "loanAmount": 28417,
+    "profitToLoanRatio": 67,
+    "creditScore": 590,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_223",
+    "loanAmount": 22502,
+    "profitToLoanRatio": 27,
+    "creditScore": 678,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_224",
+    "loanAmount": 18993,
+    "profitToLoanRatio": 23,
+    "creditScore": 484,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_225",
+    "loanAmount": 51235,
+    "profitToLoanRatio": 52,
+    "creditScore": 552,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_226",
+    "loanAmount": 52346,
+    "profitToLoanRatio": 53,
+    "creditScore": 547,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_227",
+    "loanAmount": 53457,
+    "profitToLoanRatio": 32,
+    "creditScore": 752,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_228",
+    "loanAmount": 54568,
+    "profitToLoanRatio": 33,
+    "creditScore": 747,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_229",
+    "loanAmount": 31235,
+    "profitToLoanRatio": 32,
+    "creditScore": 702,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_230",
+    "loanAmount": 32346,
+    "profitToLoanRatio": 33,
+    "creditScore": 697,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_231",
+    "loanAmount": 33457,
+    "profitToLoanRatio": 22,
+    "creditScore": 552,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_232",
+    "loanAmount": 34568,
+    "profitToLoanRatio": 24,
+    "creditScore": 547,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_233",
+    "loanAmount": 91834,
+    "profitToLoanRatio": 49,
+    "creditScore": 816,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_234",
+    "loanAmount": 87400,
+    "profitToLoanRatio": 59,
+    "creditScore": 502,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_235",
+    "loanAmount": 81929,
+    "profitToLoanRatio": 39,
+    "creditScore": 775,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_236",
+    "loanAmount": 99102,
+    "profitToLoanRatio": 27,
+    "creditScore": 703,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_237",
+    "loanAmount": 41226,
+    "profitToLoanRatio": 47,
+    "creditScore": 717,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_238",
+    "loanAmount": 26885,
+    "profitToLoanRatio": 52,
+    "creditScore": 680,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_239",
+    "loanAmount": 21095,
+    "profitToLoanRatio": 27,
+    "creditScore": 821,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_240",
+    "loanAmount": 11787,
+    "profitToLoanRatio": 26,
+    "creditScore": 407,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_241",
+    "loanAmount": 78902,
+    "profitToLoanRatio": 67,
+    "creditScore": 651,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_242",
+    "loanAmount": 79013,
+    "profitToLoanRatio": 68,
+    "creditScore": 546,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_243",
+    "loanAmount": 80124,
+    "profitToLoanRatio": 37,
+    "creditScore": 753,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_244",
+    "loanAmount": 81235,
+    "profitToLoanRatio": 38,
+    "creditScore": 746,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_245",
+    "loanAmount": 40124,
+    "profitToLoanRatio": 37,
+    "creditScore": 703,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_246",
+    "loanAmount": 41235,
+    "profitToLoanRatio": 38,
+    "creditScore": 696,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_247",
+    "loanAmount": 42346,
+    "profitToLoanRatio": 27,
+    "creditScore": 553,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_248",
+    "loanAmount": 43457,
+    "profitToLoanRatio": 26,
+    "creditScore": 546,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_249",
+    "loanAmount": 58292,
+    "profitToLoanRatio": 53,
+    "creditScore": 598,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_250",
+    "loanAmount": 55211,
+    "profitToLoanRatio": 45,
+    "creditScore": 421,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_251",
+    "loanAmount": 61285,
+    "profitToLoanRatio": 41,
+    "creditScore": 787,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_252",
+    "loanAmount": 50112,
+    "profitToLoanRatio": 35,
+    "creditScore": 613,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_253",
+    "loanAmount": 28141,
+    "profitToLoanRatio": 40,
+    "creditScore": 724,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_254",
+    "loanAmount": 30220,
+    "profitToLoanRatio": 48,
+    "creditScore": 520,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_255",
+    "loanAmount": 13412,
+    "profitToLoanRatio": 23,
+    "creditScore": 642,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_256",
+    "loanAmount": 14219,
+    "profitToLoanRatio": 24,
+    "creditScore": 503,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_257",
+    "loanAmount": 99996,
+    "profitToLoanRatio": 73,
+    "creditScore": 848,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_258",
+    "loanAmount": 99995,
+    "profitToLoanRatio": 72,
+    "creditScore": 402,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_259",
+    "loanAmount": 99994,
+    "profitToLoanRatio": 42,
+    "creditScore": 847,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_260",
+    "loanAmount": 99993,
+    "profitToLoanRatio": 41,
+    "creditScore": 403,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_261",
+    "loanAmount": 44994,
+    "profitToLoanRatio": 73,
+    "creditScore": 848,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_262",
+    "loanAmount": 44993,
+    "profitToLoanRatio": 72,
+    "creditScore": 404,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_263",
+    "loanAmount": 44992,
+    "profitToLoanRatio": 27,
+    "creditScore": 847,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_264",
+    "loanAmount": 44991,
+    "profitToLoanRatio": 26,
+    "creditScore": 405,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_265",
+    "loanAmount": 83452,
+    "profitToLoanRatio": 55,
+    "creditScore": 730,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_266",
+    "loanAmount": 76322,
+    "profitToLoanRatio": 65,
+    "creditScore": 530,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_267",
+    "loanAmount": 65232,
+    "profitToLoanRatio": 34,
+    "creditScore": 830,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_268",
+    "loanAmount": 85212,
+    "profitToLoanRatio": 35,
+    "creditScore": 730,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_269",
+    "loanAmount": 35122,
+    "profitToLoanRatio": 44,
+    "creditScore": 730,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_270",
+    "loanAmount": 25122,
+    "profitToLoanRatio": 54,
+    "creditScore": 630,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_271",
+    "loanAmount": 23122,
+    "profitToLoanRatio": 24,
+    "creditScore": 630,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_272",
+    "loanAmount": 13122,
+    "profitToLoanRatio": 25,
+    "creditScore": 530,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_273",
+    "loanAmount": 45005,
+    "profitToLoanRatio": 47,
+    "creditScore": 552,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_274",
+    "loanAmount": 45006,
+    "profitToLoanRatio": 48,
+    "creditScore": 545,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_275",
+    "loanAmount": 45007,
+    "profitToLoanRatio": 41,
+    "creditScore": 752,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_276",
+    "loanAmount": 45008,
+    "profitToLoanRatio": 40,
+    "creditScore": 745,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_277",
+    "loanAmount": 10005,
+    "profitToLoanRatio": 32,
+    "creditScore": 702,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_278",
+    "loanAmount": 10006,
+    "profitToLoanRatio": 33,
+    "creditScore": 695,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_279",
+    "loanAmount": 10007,
+    "profitToLoanRatio": 26,
+    "creditScore": 552,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_280",
+    "loanAmount": 10008,
+    "profitToLoanRatio": 25,
+    "creditScore": 545,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_281",
+    "loanAmount": 71833,
+    "profitToLoanRatio": 50,
+    "creditScore": 817,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_282",
+    "loanAmount": 77397,
+    "profitToLoanRatio": 60,
+    "creditScore": 503,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_283",
+    "loanAmount": 71926,
+    "profitToLoanRatio": 40,
+    "creditScore": 776,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_284",
+    "loanAmount": 89103,
+    "profitToLoanRatio": 30,
+    "creditScore": 704,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_285",
+    "loanAmount": 40227,
+    "profitToLoanRatio": 50,
+    "creditScore": 720,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_286",
+    "loanAmount": 25886,
+    "profitToLoanRatio": 55,
+    "creditScore": 683,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_287",
+    "loanAmount": 20096,
+    "profitToLoanRatio": 21,
+    "creditScore": 824,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_288",
+    "loanAmount": 10788,
+    "profitToLoanRatio": 20,
+    "creditScore": 410,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_289",
+    "loanAmount": 68903,
+    "profitToLoanRatio": 70,
+    "creditScore": 652,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_290",
+    "loanAmount": 69014,
+    "profitToLoanRatio": 71,
+    "creditScore": 544,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_291",
+    "loanAmount": 70125,
+    "profitToLoanRatio": 41,
+    "creditScore": 754,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_292",
+    "loanAmount": 71236,
+    "profitToLoanRatio": 42,
+    "creditScore": 744,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_293",
+    "loanAmount": 39125,
+    "profitToLoanRatio": 42,
+    "creditScore": 704,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_294",
+    "loanAmount": 38236,
+    "profitToLoanRatio": 43,
+    "creditScore": 694,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_295",
+    "loanAmount": 37347,
+    "profitToLoanRatio": 26,
+    "creditScore": 554,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_296",
+    "loanAmount": 36458,
+    "profitToLoanRatio": 25,
+    "creditScore": 544,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_297",
+    "loanAmount": 48293,
+    "profitToLoanRatio": 56,
+    "creditScore": 601,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_298",
+    "loanAmount": 45212,
+    "profitToLoanRatio": 48,
+    "creditScore": 424,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_299",
+    "loanAmount": 51286,
+    "profitToLoanRatio": 44,
+    "creditScore": 790,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_300",
+    "loanAmount": 49113,
+    "profitToLoanRatio": 38,
+    "creditScore": 616,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_301",
+    "loanAmount": 18142,
+    "profitToLoanRatio": 43,
+    "creditScore": 727,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_302",
+    "loanAmount": 10221,
+    "profitToLoanRatio": 51,
+    "creditScore": 523,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_303",
+    "loanAmount": 12413,
+    "profitToLoanRatio": 22,
+    "creditScore": 645,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_304",
+    "loanAmount": 13220,
+    "profitToLoanRatio": 23,
+    "creditScore": 506,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_305",
+    "loanAmount": 93453,
+    "profitToLoanRatio": 58,
+    "creditScore": 733,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_306",
+    "loanAmount": 86323,
+    "profitToLoanRatio": 68,
+    "creditScore": 533,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_307",
+    "loanAmount": 75233,
+    "profitToLoanRatio": 37,
+    "creditScore": 833,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_308",
+    "loanAmount": 95213,
+    "profitToLoanRatio": 38,
+    "creditScore": 733,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_309",
+    "loanAmount": 44123,
+    "profitToLoanRatio": 47,
+    "creditScore": 733,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_310",
+    "loanAmount": 34123,
+    "profitToLoanRatio": 57,
+    "creditScore": 633,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_311",
+    "loanAmount": 32123,
+    "profitToLoanRatio": 25,
+    "creditScore": 633,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_312",
+    "loanAmount": 22123,
+    "profitToLoanRatio": 26,
+    "creditScore": 533,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_313",
+    "loanAmount": 55812,
+    "profitToLoanRatio": 46,
+    "creditScore": 556,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_314",
+    "loanAmount": 56923,
+    "profitToLoanRatio": 48,
+    "creditScore": 544,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_315",
+    "loanAmount": 57134,
+    "profitToLoanRatio": 43,
+    "creditScore": 756,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_316",
+    "loanAmount": 58245,
+    "profitToLoanRatio": 42,
+    "creditScore": 744,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_317",
+    "loanAmount": 11312,
+    "profitToLoanRatio": 34,
+    "creditScore": 706,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_318",
+    "loanAmount": 12423,
+    "profitToLoanRatio": 35,
+    "creditScore": 694,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_319",
+    "loanAmount": 13534,
+    "profitToLoanRatio": 23,
+    "creditScore": 556,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_320",
+    "loanAmount": 14645,
+    "profitToLoanRatio": 22,
+    "creditScore": 544,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_321",
+    "loanAmount": 62834,
+    "profitToLoanRatio": 51,
+    "creditScore": 818,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_322",
+    "loanAmount": 67395,
+    "profitToLoanRatio": 61,
+    "creditScore": 504,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_323",
+    "loanAmount": 61925,
+    "profitToLoanRatio": 41,
+    "creditScore": 777,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_324",
+    "loanAmount": 78104,
+    "profitToLoanRatio": 31,
+    "creditScore": 705,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_325",
+    "loanAmount": 38228,
+    "profitToLoanRatio": 51,
+    "creditScore": 721,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_326",
+    "loanAmount": 23887,
+    "profitToLoanRatio": 56,
+    "creditScore": 684,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_327",
+    "loanAmount": 18097,
+    "profitToLoanRatio": 20,
+    "creditScore": 825,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_328",
+    "loanAmount": 10079,
+    "profitToLoanRatio": 21,
+    "creditScore": 411,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_329",
+    "loanAmount": 57904,
+    "profitToLoanRatio": 71,
+    "creditScore": 653,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_330",
+    "loanAmount": 58015,
+    "profitToLoanRatio": 72,
+    "creditScore": 542,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_331",
+    "loanAmount": 59126,
+    "profitToLoanRatio": 40,
+    "creditScore": 755,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_332",
+    "loanAmount": 60237,
+    "profitToLoanRatio": 39,
+    "creditScore": 742,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_333",
+    "loanAmount": 28126,
+    "profitToLoanRatio": 41,
+    "creditScore": 705,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_334",
+    "loanAmount": 27237,
+    "profitToLoanRatio": 42,
+    "creditScore": 692,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_335",
+    "loanAmount": 26348,
+    "profitToLoanRatio": 25,
+    "creditScore": 555,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_336",
+    "loanAmount": 25459,
+    "profitToLoanRatio": 24,
+    "creditScore": 542,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_337",
+    "loanAmount": 46294,
+    "profitToLoanRatio": 57,
+    "creditScore": 602,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_338",
+    "loanAmount": 43213,
+    "profitToLoanRatio": 49,
+    "creditScore": 425,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_339",
+    "loanAmount": 49287,
+    "profitToLoanRatio": 42,
+    "creditScore": 791,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_340",
+    "loanAmount": 47114,
+    "profitToLoanRatio": 39,
+    "creditScore": 617,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_341",
+    "loanAmount": 16143,
+    "profitToLoanRatio": 44,
+    "creditScore": 728,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_342",
+    "loanAmount": 10022,
+    "profitToLoanRatio": 52,
+    "creditScore": 524,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_343",
+    "loanAmount": 11314,
+    "profitToLoanRatio": 21,
+    "creditScore": 646,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_344",
+    "loanAmount": 12121,
+    "profitToLoanRatio": 22,
+    "creditScore": 507,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_345",
+    "loanAmount": 84454,
+    "profitToLoanRatio": 59,
+    "creditScore": 734,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_346",
+    "loanAmount": 77324,
+    "profitToLoanRatio": 69,
+    "creditScore": 534,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_347",
+    "loanAmount": 66234,
+    "profitToLoanRatio": 38,
+    "creditScore": 834,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_348",
+    "loanAmount": 86214,
+    "profitToLoanRatio": 39,
+    "creditScore": 734,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_349",
+    "loanAmount": 36124,
+    "profitToLoanRatio": 47,
+    "creditScore": 734,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_350",
+    "loanAmount": 26124,
+    "profitToLoanRatio": 58,
+    "creditScore": 634,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_351",
+    "loanAmount": 24124,
+    "profitToLoanRatio": 23,
+    "creditScore": 634,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_352",
+    "loanAmount": 14124,
+    "profitToLoanRatio": 24,
+    "creditScore": 534,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_353",
+    "loanAmount": 47001,
+    "profitToLoanRatio": 47,
+    "creditScore": 553,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_354",
+    "loanAmount": 47002,
+    "profitToLoanRatio": 48,
+    "creditScore": 541,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_355",
+    "loanAmount": 47003,
+    "profitToLoanRatio": 41,
+    "creditScore": 753,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_356",
+    "loanAmount": 47004,
+    "profitToLoanRatio": 40,
+    "creditScore": 741,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_357",
+    "loanAmount": 12001,
+    "profitToLoanRatio": 32,
+    "creditScore": 703,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_358",
+    "loanAmount": 12002,
+    "profitToLoanRatio": 33,
+    "creditScore": 691,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_359",
+    "loanAmount": 12003,
+    "profitToLoanRatio": 27,
+    "creditScore": 553,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_360",
+    "loanAmount": 12004,
+    "profitToLoanRatio": 26,
+    "creditScore": 541,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_361",
+    "loanAmount": 61835,
+    "profitToLoanRatio": 52,
+    "creditScore": 819,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_362",
+    "loanAmount": 67394,
+    "profitToLoanRatio": 62,
+    "creditScore": 505,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_363",
+    "loanAmount": 60924,
+    "profitToLoanRatio": 42,
+    "creditScore": 778,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_364",
+    "loanAmount": 78105,
+    "profitToLoanRatio": 32,
+    "creditScore": 706,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_365",
+    "loanAmount": 38229,
+    "profitToLoanRatio": 52,
+    "creditScore": 722,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_366",
+    "loanAmount": 23888,
+    "profitToLoanRatio": 57,
+    "creditScore": 685,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_367",
+    "loanAmount": 18098,
+    "profitToLoanRatio": 23,
+    "creditScore": 826,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_368",
+    "loanAmount": 10080,
+    "profitToLoanRatio": 22,
+    "creditScore": 412,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_369",
+    "loanAmount": 57905,
+    "profitToLoanRatio": 72,
+    "creditScore": 654,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_370",
+    "loanAmount": 58016,
+    "profitToLoanRatio": 73,
+    "creditScore": 541,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_371",
+    "loanAmount": 59127,
+    "profitToLoanRatio": 39,
+    "creditScore": 756,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_372",
+    "loanAmount": 60238,
+    "profitToLoanRatio": 38,
+    "creditScore": 741,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_373",
+    "loanAmount": 28127,
+    "profitToLoanRatio": 40,
+    "creditScore": 706,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_374",
+    "loanAmount": 27238,
+    "profitToLoanRatio": 41,
+    "creditScore": 691,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_375",
+    "loanAmount": 26349,
+    "profitToLoanRatio": 24,
+    "creditScore": 556,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_376",
+    "loanAmount": 25460,
+    "profitToLoanRatio": 23,
+    "creditScore": 541,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_377",
+    "loanAmount": 46295,
+    "profitToLoanRatio": 58,
+    "creditScore": 603,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_378",
+    "loanAmount": 43214,
+    "profitToLoanRatio": 50,
+    "creditScore": 426,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_379",
+    "loanAmount": 49288,
+    "profitToLoanRatio": 41,
+    "creditScore": 792,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_380",
+    "loanAmount": 47115,
+    "profitToLoanRatio": 40,
+    "creditScore": 618,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_381",
+    "loanAmount": 16144,
+    "profitToLoanRatio": 45,
+    "creditScore": 729,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_382",
+    "loanAmount": 10023,
+    "profitToLoanRatio": 53,
+    "creditScore": 525,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_383",
+    "loanAmount": 11315,
+    "profitToLoanRatio": 20,
+    "creditScore": 647,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_384",
+    "loanAmount": 12122,
+    "profitToLoanRatio": 21,
+    "creditScore": 508,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_385",
+    "loanAmount": 84456,
+    "profitToLoanRatio": 60,
+    "creditScore": 735,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_386",
+    "loanAmount": 77326,
+    "profitToLoanRatio": 70,
+    "creditScore": 535,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_387",
+    "loanAmount": 66236,
+    "profitToLoanRatio": 39,
+    "creditScore": 835,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_388",
+    "loanAmount": 86216,
+    "profitToLoanRatio": 40,
+    "creditScore": 735,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_389",
+    "loanAmount": 36126,
+    "profitToLoanRatio": 48,
+    "creditScore": 735,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_390",
+    "loanAmount": 26126,
+    "profitToLoanRatio": 59,
+    "creditScore": 635,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_391",
+    "loanAmount": 24126,
+    "profitToLoanRatio": 21,
+    "creditScore": 635,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_392",
+    "loanAmount": 14126,
+    "profitToLoanRatio": 22,
+    "creditScore": 535,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_393",
+    "loanAmount": 47009,
+    "profitToLoanRatio": 49,
+    "creditScore": 555,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_394",
+    "loanAmount": 47010,
+    "profitToLoanRatio": 50,
+    "creditScore": 539,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_395",
+    "loanAmount": 47011,
+    "profitToLoanRatio": 39,
+    "creditScore": 755,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_396",
+    "loanAmount": 47012,
+    "profitToLoanRatio": 38,
+    "creditScore": 739,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_397",
+    "loanAmount": 12009,
+    "profitToLoanRatio": 34,
+    "creditScore": 705,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_398",
+    "loanAmount": 12010,
+    "profitToLoanRatio": 35,
+    "creditScore": 689,
+    "loanApproved": false
+  },
+  {
+    "fileName": "record_399",
+    "loanAmount": 12011,
+    "profitToLoanRatio": 25,
+    "creditScore": 555,
+    "loanApproved": true
+  },
+  {
+    "fileName": "record_400",
+    "loanAmount": 12012,
+    "profitToLoanRatio": 24,
+    "creditScore": 539,
+    "loanApproved": false
+  }
+]

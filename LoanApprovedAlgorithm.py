@@ -23,7 +23,7 @@ class my_class(object):
     model = DecisionTreeClassifier(max_depth= 8, random_state=42, min_samples_leaf= 12) #
 
     model.fit(valuesconsidered,targetvalue) #fits values to train the algorithm
-    
+
 
     #now that the algorithm is trained its time to put it to the test with 400 files 
     
@@ -40,9 +40,9 @@ class my_class(object):
         testvalues = dftest[['loanAmount','profitToLoanRatio','creditScore','encoded_riskofdebt']] # obtains all testing values so that it can predict the future value
         targetvaluestest = dftest['loanApproved'] 
     
-    
+
         prediction = model.predict(testvalues)
-    
+
         dftest['loanApproved'] = prediction
 
         conn_string = 'postgresql://postgres:password@localhost/postgres'
@@ -51,6 +51,7 @@ class my_class(object):
         dftest.drop("encoded_riskofdebt",axis = 1,inplace=True) # removes the encoded new value that is used to predict the test data
 
         dftest.to_sql('datatest', db,if_exists='replace',index = False)
+
         print("File added to the postgressql database")
     elif(file == "0"):
         filename = input("\nType the name of the file and add a .xlxs at the end\n")
@@ -68,7 +69,7 @@ class my_class(object):
     
         dftest['loanApproved'] = prediction
 
-        conn_string = 'postgresql://postgres:password@localhost/postgres'
+        conn_string = 
         db = create_engine(conn_string)
 
         dftest.drop("encoded_riskofdebt",axis = 1,inplace=True) # removes the encoded new value that is used to predict the test data
